@@ -2,6 +2,9 @@
 
 色の合わせ方が分からず黒い服を選びがちな人が、ベース色に合う3色の組み合わせと面積の目安を見ながら、黒以外の服も購入候補として考えられるサービス。
 
+### 画面遷移図
+Figma：https://www.figma.com/design/7nV9xZCkkfLbr43WI1oxcC/Palette-Closet?node-id=3-224&t=tGyBtyIHXxM2exS3-1
+
 ---
 
 ## 2. このアイデアはどこから生まれたか
