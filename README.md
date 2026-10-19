@@ -5,6 +5,9 @@
 ### 画面遷移図
 Figma：https://www.figma.com/design/7nV9xZCkkfLbr43WI1oxcC/Palette-Closet?node-id=3-224&t=tGyBtyIHXxM2exS3-1
 
+### ER図
+Draw：https://drive.google.com/file/d/1Rnl9XvtlKWs81krhAUyd9d3-zKTkRUx9/view?usp=sharing
+
 ---
 
 ## 2. このアイデアはどこから生まれたか
