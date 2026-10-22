@@ -1,0 +1,14 @@
+[
+    { "name": "ペール", "description": "薄い" },
+    { "name": "ライト", "description": "浅い" },
+    { "name": "ブライト", "description": "明るい" },
+    { "name": "ビビッド", "description": "鮮やか" },
+    { "name": "ソフト", "description": "柔らかい" },
+    { "name": "ストロング", "description": "強い" },
+    { "name": "ダル", "description": "鈍い" },
+    { "name": "ディープ", "description": "濃い" },
+    { "name": "ライトグレイッシュ", "description": "明るい灰み" },
+    { "name": "グレイッシュ", "description": "灰み" },
+    { "name": "ダークグレイッシュ", "description": "暗い灰み" },
+    { "name": "ダーク", "description": "暗い" }
+]
