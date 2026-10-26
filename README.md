@@ -180,11 +180,11 @@ MVPでは、同じ色相でもトーンの異なる色見本を用意し、服�
 ### 10-1. 使用予定の技術
 
 - フレームワーク：React, Rails。
-- DB：MySQL。MVPから配色などを保存・検索するために使う。
-- デプロイ先：Railway, AWS Lightsail, AWSのEC2＋RDS（MySQL）
+- DB：PostgreSQL。MVPから配色などを保存・検索するために使う。
+- デプロイ先：Render+Neon（PostgreSQL）。将来はRailwayの新規登録再開後に移行したいと考えています。
 - 使用予定ライブラリ：
     React Router
-    mysql2
+    pg
     GPT API用にはOpenAI公式のRuby gem `openai`を使う。MVP後の候補。
 
 ---
@@ -193,9 +193,7 @@ MVPでは、同じ色相でもトーンの異なる色見本を用意し、服�
 
 Reactは、選択した色に応じて配色を切り替え、3色の組み合わせと面積バランスを視覚的に確認できる画面を作るために使う。画面遷移にもアニメーションを取り入れたいため。
 Railsは、検索条件を受け取り、登録済みの配色データを取得する処理に使うため。
-MySQLは配色などの保存・検索に使うため。
-デプロイ先は検討中。
-ライブラリも現在は検討中。
+DBは配色などの保存・検索に使う。Railwayの新規登録が利用できず、AWSは運用負担が大きいため、公開先をRender＋Neonに変更しました。Neonを利用するため、DBもMySQLからPostgreSQLへ変更。
 
 ---
 
