@@ -186,6 +186,10 @@ MVPでは、同じ色相でもトーンの異なる色見本を用意し、服�
     React Router
     pg
     GPT API用にはOpenAI公式のRuby gem `openai`を使う。MVP後の候補。
+- 使用予定テストgem・ライブラリ：
+    - Rails：`rspec-rails`、`factory_bot_rails`、`simplecov`
+    - React：`vitest`、`@testing-library/react`、`@testing-library/dom`、`@testing-library/user-event`、`@testing-library/jest-dom`、`jsdom`
+    - Reactのカバレッジ測定：`@vitest/coverage-v8`
 
 ---
 
