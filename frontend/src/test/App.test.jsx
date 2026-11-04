@@ -1,6 +1,7 @@
 import { render, screen, within } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import { MemoryRouter } from 'react-router'
+import { createMemoryRouter, MemoryRouter } from 'react-router'
+import { RouterProvider } from 'react-router/dom'
 import { afterEach, beforeEach, expect, test, vi } from 'vitest'
 import { App } from '../top/App'
 
@@ -112,4 +113,28 @@ test('色を選択し、別の色に選び直せる', async () => {
 
   await user.click(blueButton)
   expect(selectedColor).toHaveTextContent('青')
+})
+
+test('赤を選んで検索すると、赤のIDを付けたURLへ移動する', async () => {
+  const user = userEvent.setup()
+
+  const router = createMemoryRouter([
+    { path: '/', element: <App /> },
+    { path: '/palettes', element: <></> },
+  ])
+
+  render(<RouterProvider router={router} />)
+
+  const redButton = await screen.findByRole('button', {
+    name: '赤',
+  })
+  await user.click(redButton)
+
+  const searchButton = screen.getByRole('button', {
+    name: 'この色の配色を見る →',
+  })
+  await user.click(searchButton)
+
+  expect(router.state.location.pathname).toBe('/palettes')
+  expect(router.state.location.search).toBe('?color_id=1')
 })
