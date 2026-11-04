@@ -1,5 +1,6 @@
 import { render, screen, within } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
+import { MemoryRouter } from 'react-router'
 import { afterEach, beforeEach, expect, test, vi } from 'vitest'
 import { App } from '../top/App'
 
@@ -36,7 +37,11 @@ afterEach(() => {
 })
 
 test('色が未選択のとき、検索ボタンが無効になっている', () => {
-  render(<App />)
+  render(
+    <MemoryRouter>
+      <App />
+    </MemoryRouter>
+  )
 
   const searchButton = screen.getByRole('button', {
     name: 'この色の配色を見る →',
@@ -46,7 +51,11 @@ test('色が未選択のとき、検索ボタンが無効になっている', ()
 })
 
 test('ビビッドの中に赤と青の色ボタンが表示される', async () => {
-  render(<App />)
+  render(
+    <MemoryRouter>
+      <App />
+    </MemoryRouter>
+  )
 
   const vivid = screen.getByRole('group', {
     name: 'ビビッド',
@@ -64,7 +73,11 @@ test('ビビッドの中に赤と青の色ボタンが表示される', async ()
 })
 
 test('無彩色の中に白の色ボタンが表示される', async () => {
-  render(<App />)
+  render(
+    <MemoryRouter>
+      <App />
+    </MemoryRouter>
+  )
 
   const achromatic = screen.getByRole('group', {
     name: '無彩色',
@@ -79,7 +92,11 @@ test('無彩色の中に白の色ボタンが表示される', async () => {
 
 test('色を選択し、別の色に選び直せる', async () => {
   const user = userEvent.setup()
-  render(<App />)
+  render(
+    <MemoryRouter>
+      <App />
+    </MemoryRouter>
+  )
 
   const redButton = await screen.findByRole('button', {
     name: '赤',
