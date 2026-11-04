@@ -152,3 +152,19 @@ test('色データの取得中は読み込み中の案内が表示される', ()
 
   expect(screen.getByText('読み込み中…')).toBeVisible()
 })
+
+test('色データの取得に失敗するとエラーの案内が表示される', async () => {
+  vi.mocked(globalThis.fetch).mockRejectedValue(
+    new Error('通信エラー')
+  )
+
+  render(
+    <MemoryRouter>
+      <App />
+    </MemoryRouter>
+  )
+
+  expect(
+    await screen.findByText('色データを取得できませんでした。')
+  ).toBeVisible()
+})
