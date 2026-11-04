@@ -1,4 +1,5 @@
 import { render, screen, within } from '@testing-library/react'
+import userEvent from '@testing-library/user-event'
 import { afterEach, beforeEach, expect, test, vi } from 'vitest'
 import { App } from '../top/App'
 
@@ -74,4 +75,24 @@ test('無彩色の中に白の色ボタンが表示される', async () => {
   })
 
   expect(whiteButton).toBeVisible()
+})
+
+test('色を選択し、別の色に選び直せる', async () => {
+  const user = userEvent.setup()
+  render(<App />)
+
+  const redButton = await screen.findByRole('button', {
+    name: '赤',
+  })
+  const blueButton = await screen.findByRole('button', {
+    name: '青',
+  })
+
+  const selectedColor = screen.getByText('色を選んでください。')
+
+  await user.click(redButton)
+  expect(selectedColor).toHaveTextContent('赤')
+
+  await user.click(blueButton)
+  expect(selectedColor).toHaveTextContent('青')
 })
