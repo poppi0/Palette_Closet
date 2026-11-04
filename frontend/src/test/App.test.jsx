@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react'
+import { render, screen, within } from '@testing-library/react'
 import { afterEach, beforeEach, expect, test, vi } from 'vitest'
 import { App } from '../top/App'
 
@@ -42,4 +42,36 @@ test('色が未選択のとき、検索ボタンが無効になっている', ()
   })
 
   expect(searchButton).toBeDisabled()
+})
+
+test('ビビッドの中に赤と青の色ボタンが表示される', async () => {
+  render(<App />)
+
+  const vivid = screen.getByRole('group', {
+    name: 'ビビッド',
+  })
+
+  const redButton = await within(vivid).findByRole('button', {
+    name: '赤',
+  })
+  const blueButton = await within(vivid).findByRole('button', {
+    name: '青',
+  })
+
+  expect(redButton).toBeVisible()
+  expect(blueButton).toBeVisible()
+})
+
+test('無彩色の中に白の色ボタンが表示される', async () => {
+  render(<App />)
+
+  const achromatic = screen.getByRole('group', {
+    name: '無彩色',
+  })
+
+  const whiteButton = await within(achromatic).findByRole('button', {
+    name: '白',
+  })
+
+  expect(whiteButton).toBeVisible()
 })
