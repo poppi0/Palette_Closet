@@ -138,3 +138,17 @@ test('赤を選んで検索すると、赤のIDを付けたURLへ移動する', 
   expect(router.state.location.pathname).toBe('/palettes')
   expect(router.state.location.search).toBe('?color_id=1')
 })
+
+test('色データの取得中は読み込み中の案内が表示される', () => {
+  vi.mocked(globalThis.fetch).mockReturnValue(
+    new Promise(() => {})
+  )
+
+  render(
+    <MemoryRouter>
+      <App />
+    </MemoryRouter>
+  )
+
+  expect(screen.getByText('読み込み中…')).toBeVisible()
+})
