@@ -1,3 +1,5 @@
+require "json"
+
 [
   "ペール", "ライト", "ブライト", "ビビッド",
   "ソフト", "ストロング", "ダル", "ディープ",
@@ -68,8 +70,8 @@ tone_colors.each do |tone_name, hex_codes|
   tone = Tone.find_by!(name: tone_name)
 
   color_names.zip(hex_codes).each do |color_name, hex_code|
-    Color.find_or_create_by!(name: "#{tone_name}#{color_name}") do |color|
-      color.hex_code = hex_code
+    Color.find_or_create_by!(hex_code: hex_code) do |color|
+      color.name = "#{tone_name}#{color_name}"
       color.tone = tone
     end
   end
@@ -80,7 +82,40 @@ end
   "グレー" => "#808080",
   "ブラック" => "#000000"
 }.each do |name, hex_code|
-  Color.find_or_create_by!(name: name) do |color|
-    color.hex_code = hex_code
+  Color.find_or_create_by!(hex_code: hex_code) do |color|
+    color.name = name
+  end
+end
+
+palette_data = JSON.parse(
+  Rails.root.join("db/seeds/palette_data.json").read
+)
+
+ApplicationRecord.transaction do
+  palette_data.fetch("colors").each do |row|
+    Color.find_or_create_by!(hex_code: row["hex_code"]) do |color|
+      color.name = row["name"]
+      color.tone = Tone.find_by!(name: row["tone_name"]) if row["tone_name"]
+    end
+  end
+
+  palette_data.fetch("palettes").each do |row|
+    base = Color.find_by!(hex_code: row["base_hex"])
+    sub = Color.find_by!(hex_code: row["sub_hex"])
+    accent = Color.find_by!(hex_code: row["accent_hex"])
+    ratios = [ row["base_ratio"], row["sub_ratio"], row["accent_ratio"] ]
+
+    if [ base.id, sub.id, accent.id ].uniq.size != 3 || ratios.sum != 100
+      raise "配色データを確認してください: #{row["source_id"]}"
+    end
+
+    Palette.find_or_create_by!(
+      base_color: base,
+      sub_color: sub,
+      accent_color: accent,
+      base_ratio: ratios[0],
+      sub_ratio: ratios[1],
+      accent_ratio: ratios[2]
+    )
   end
 end

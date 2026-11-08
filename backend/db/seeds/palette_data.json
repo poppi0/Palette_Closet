@@ -1,0 +1,3539 @@
+{
+  "colors": [
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#EFEBE0",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#F7C3BF",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトブルー",
+      "hex_code": "#8AC8CF",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールイエロー",
+      "hex_code": "#F3EED5",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトイエロー",
+      "hex_code": "#D4DFBB",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ソフトオレンジ",
+      "hex_code": "#E4AF9B",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ライトグレイッシュグリーン",
+      "hex_code": "#B9CDBF",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#EFD4CD",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ダークグレイッシュパープル",
+      "hex_code": "#604461",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュブルー",
+      "hex_code": "#BDD8DD",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#E6C5CF",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ソフトパープル",
+      "hex_code": "#AF9DC0",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#C0E4F2",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#F7C4D4",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールイエロー",
+      "hex_code": "#FFF7C9",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#8AB0BC",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#E6AFCF",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ライトイエロー",
+      "hex_code": "#F8F5B5",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ライトグレイッシュグリーン",
+      "hex_code": "#BFC9BD",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュブルー",
+      "hex_code": "#C1D1E0",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#EFE5CB",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#E4C6A6",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#E6CD8C",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ダルオレンジ",
+      "hex_code": "#8E775D",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ライトグレイッシュイエロー",
+      "hex_code": "#D9D8CE",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ペールグリーン",
+      "hex_code": "#D3E9D0",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#E0B6A9",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#E1B985",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ブライトイエロー",
+      "hex_code": "#FDD23E",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#00A08D",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ブライトレッド",
+      "hex_code": "#DC5F36",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#F7E3AF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ダークグレイッシュレッド",
+      "hex_code": "#70372C",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#A2A2AD",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ライトグレイッシュオレンジ",
+      "hex_code": "#DCD5C8",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ダークブルー",
+      "hex_code": "#1F1E63",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ライトグレイッシュグリーン",
+      "hex_code": "#BEE0CC",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#ECBBB5",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#E99BC1",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#E0F1F1",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ストロングイエロー",
+      "hex_code": "#AED265",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ダルブルー",
+      "hex_code": "#5188B1",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#F3E7EA",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールグリーン",
+      "hex_code": "#D2E7BF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトイエロー",
+      "hex_code": "#D7D486",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#D9EAEC",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#BCD537",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#74A64C",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ダルパープル",
+      "hex_code": "#984F9B",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ブライトレッド",
+      "hex_code": "#EB6143",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ブライトイエロー",
+      "hex_code": "#FFE33F",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#DFE2EA",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールグリーン",
+      "hex_code": "#CAE5D3",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトブルー",
+      "hex_code": "#9CC9E5",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ダルパープル",
+      "hex_code": "#A660A3",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ブライトレッド",
+      "hex_code": "#EA6096",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ストロングレッド",
+      "hex_code": "#D80C18",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#31B6A0",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#EF8BB6",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FFDA2A",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#C4D700",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ブライトイエロー",
+      "hex_code": "#FFEE7D",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ブライトオレンジ",
+      "hex_code": "#F49C2D",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ダルブルー",
+      "hex_code": "#00979B",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ストロングレッド",
+      "hex_code": "#C03619",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ライトイエロー",
+      "hex_code": "#EBD880",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#2E499D",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ストロングレッド",
+      "hex_code": "#D13209",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FFDE00",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "グレイッシュレッド",
+      "hex_code": "#957E80",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#EFC3BD",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#F5E8CF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F6B7AA",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ブライトイエロー",
+      "hex_code": "#FAE06A",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#0E536D",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ビビッドオレンジ",
+      "hex_code": "#F08437",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#00A040",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E6191C",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ライトグレイッシュパープル",
+      "hex_code": "#C9C2E0",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュグリーン",
+      "hex_code": "#C2E2D2",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#F8CCD1",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#FFF8EE",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#F9CFD1",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F39F89",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ソフトグリーン",
+      "hex_code": "#64C0AB",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ブライトレッド",
+      "hex_code": "#E85298",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#4D4398",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ブライトブルー",
+      "hex_code": "#2BB7B3",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ブライトレッド",
+      "hex_code": "#ED6D46",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FFF100",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#EAF6FD",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ダークブルー",
+      "hex_code": "#002A5B",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ストロングレッド",
+      "hex_code": "#D7000F",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#13AE67",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E8382F",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FFEB27",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#D3E7F5",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F3ABC0",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ブライトレッド",
+      "hex_code": "#DD5B9C",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ライトグレイッシュブルー",
+      "hex_code": "#A7D9DD",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F3ADC5",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ライトイエロー",
+      "hex_code": "#FFF2B2",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#FFF6E4",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#F9D2D9",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトブルー",
+      "hex_code": "#84CCCE",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#DED3D6",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールイエロー",
+      "hex_code": "#FFFCD7",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#E0F1F4",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#FACA7B",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F096A0",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "グレー",
+      "hex_code": "#494544",
+      "tone_name": null
+    },
+    {
+      "name": "ライトグレイッシュグリーン",
+      "hex_code": "#BAC8C6",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ストロングレッド",
+      "hex_code": "#C41A30",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ダークブルー",
+      "hex_code": "#092237",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ダークグレイッシュオレンジ",
+      "hex_code": "#6A4928",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ダルブルー",
+      "hex_code": "#4977BC",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#E7B09F",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#EEE2D3",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ソフトオレンジ",
+      "hex_code": "#C39C89",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ダークブルー",
+      "hex_code": "#003740",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ダルレッド",
+      "hex_code": "#B15A5E",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ブライトオレンジ",
+      "hex_code": "#D4B572",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ホワイト",
+      "hex_code": "#E3DFDC",
+      "tone_name": null
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#FFF5E0",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ブラック",
+      "hex_code": "#1A0B08",
+      "tone_name": null
+    },
+    {
+      "name": "ホワイト",
+      "hex_code": "#F5F3F2",
+      "tone_name": null
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#E7BE99",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ストロングイエロー",
+      "hex_code": "#D1AE15",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ペールイエロー",
+      "hex_code": "#EAE4D1",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "グレイッシュレッド",
+      "hex_code": "#A87570",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ディープイエロー",
+      "hex_code": "#6C8650",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#F8C8B2",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#669B76",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#004C86",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#303967",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E60012",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FFE200",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダークグレイッシュブルー",
+      "hex_code": "#34485E",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ダルブルー",
+      "hex_code": "#3C7D9B",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "グレイッシュグリーン",
+      "hex_code": "#5B9F8A",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ダークレッド",
+      "hex_code": "#462E2E",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ストロングオレンジ",
+      "hex_code": "#AD722F",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ストロングイエロー",
+      "hex_code": "#CFAA2A",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "グレイッシュイエロー",
+      "hex_code": "#ACB0A8",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#DBCBC7",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ダルパープル",
+      "hex_code": "#7F5072",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "グレー",
+      "hex_code": "#63676B",
+      "tone_name": null
+    },
+    {
+      "name": "ダルブルー",
+      "hex_code": "#4B7A7C",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#D2D5EC",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "グレー",
+      "hex_code": "#3E3A3A",
+      "tone_name": null
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#CED7DC",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#E6E5EF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ブラック",
+      "hex_code": "#150201",
+      "tone_name": null
+    },
+    {
+      "name": "ダークブルー",
+      "hex_code": "#00213B",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ペールグリーン",
+      "hex_code": "#CEE2DF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ストロングイエロー",
+      "hex_code": "#D7B63D",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ライトイエロー",
+      "hex_code": "#F8ECBA",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ソフトレッド",
+      "hex_code": "#CB7F69",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F2A1A6",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#39BCDD",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#00A479",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ホワイト",
+      "hex_code": "#ECE4E1",
+      "tone_name": null
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#EAC5B6",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ソフトオレンジ",
+      "hex_code": "#C1A37D",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#FCE9ED",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F3A7AC",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ブライトイエロー",
+      "hex_code": "#DDE67B",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#F6C0D1",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#FCEBEF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#EF8893",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#FEEEDC",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトグレイッシュグリーン",
+      "hex_code": "#BDE1DA",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F5B5A7",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ライトブルー",
+      "hex_code": "#9FD9F6",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FDD000",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ストロングブルー",
+      "hex_code": "#0068B7",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#F6BAB2",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#74B5E4",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ブライトイエロー",
+      "hex_code": "#FFE56D",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ライトイエロー",
+      "hex_code": "#FCF7B0",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E8380D",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#004C83",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ビビッドオレンジ",
+      "hex_code": "#F0831E",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#FEEBBE",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ストロングオレンジ",
+      "hex_code": "#BC6E2E",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ダークグリーン",
+      "hex_code": "#2A4743",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ディープレッド",
+      "hex_code": "#7C2E1E",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "グレイッシュオレンジ",
+      "hex_code": "#B19962",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ビビッドオレンジ",
+      "hex_code": "#F18D00",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ストロングイエロー",
+      "hex_code": "#C2CE00",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ディープパープル",
+      "hex_code": "#601986",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#DCC58C",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ディープグリーン",
+      "hex_code": "#478657",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#DB3A09",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "グレー",
+      "hex_code": "#D8DBD9",
+      "tone_name": null
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#79A7D9",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ダルブルー",
+      "hex_code": "#4F85A6",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ストロングオレンジ",
+      "hex_code": "#CE6845",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ディープレッド",
+      "hex_code": "#8B272B",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E5006A",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#F7F3EC",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ペールレッド",
+      "hex_code": "#F9D6E2",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#F4AA9A",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#F3DEB9",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトレッド",
+      "hex_code": "#E8AAA3",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "グレイッシュイエロー",
+      "hex_code": "#AEAC78",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ライトグレイッシュブルー",
+      "hex_code": "#B7CDDA",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ストロングイエロー",
+      "hex_code": "#C1A858",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ストロングオレンジ",
+      "hex_code": "#E94709",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ペールイエロー",
+      "hex_code": "#FFFDE1",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ストロングイエロー",
+      "hex_code": "#D6B845",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ストロングレッド",
+      "hex_code": "#B32425",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ブラック",
+      "hex_code": "#150C15",
+      "tone_name": null
+    },
+    {
+      "name": "ダルオレンジ",
+      "hex_code": "#917C50",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ディープレッド",
+      "hex_code": "#9A1117",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#F7F3E9",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ブライトオレンジ",
+      "hex_code": "#DEB253",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E02613",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ライトグレイッシュブルー",
+      "hex_code": "#B9C9C9",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ダークグレイッシュグリーン",
+      "hex_code": "#4B6251",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ダークブルー",
+      "hex_code": "#1A274B",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "グレー",
+      "hex_code": "#AAABAB",
+      "tone_name": null
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#F7BBA2",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ストロングブルー",
+      "hex_code": "#0054A7",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#E6DFCB",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ディープグリーン",
+      "hex_code": "#567947",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ビビッドオレンジ",
+      "hex_code": "#EB5A09",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#BBE3F5",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ストロングオレンジ",
+      "hex_code": "#DA6A38",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#254678",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ホワイト",
+      "hex_code": "#E8EBE7",
+      "tone_name": null
+    },
+    {
+      "name": "ソフトイエロー",
+      "hex_code": "#C9BE72",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "グレイッシュブルー",
+      "hex_code": "#76A1B8",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "グレイッシュオレンジ",
+      "hex_code": "#AA998A",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ソフトグリーン",
+      "hex_code": "#9EC3BC",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ペールオレンジ",
+      "hex_code": "#EADFCA",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ライトオレンジ",
+      "hex_code": "#F4AC92",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#35B5D2",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FED52B",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダルブルー",
+      "hex_code": "#198B86",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ストロングオレンジ",
+      "hex_code": "#EA5520",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#F6D60F",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#0D955A",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ブライトオレンジ",
+      "hex_code": "#E7A100",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ディープレッド",
+      "hex_code": "#9F002D",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#003F67",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ストロングレッド",
+      "hex_code": "#AD0003",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ブライトイエロー",
+      "hex_code": "#FEDD6B",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ライトグレイッシュレッド",
+      "hex_code": "#F5B8CC",
+      "tone_name": "ライトグレイッシュ"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#4ABCB9",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ストロングブルー",
+      "hex_code": "#2E69B3",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#144DA0",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#70ACCE",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ダークブルー",
+      "hex_code": "#101841",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "グレー",
+      "hex_code": "#68666C",
+      "tone_name": null
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#D2DDDE",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ビビッドオレンジ",
+      "hex_code": "#EE7D50",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールグリーン",
+      "hex_code": "#D4ECEA",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ソフトグリーン",
+      "hex_code": "#A7D28F",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ソフトブルー",
+      "hex_code": "#63A6DB",
+      "tone_name": "ソフト"
+    },
+    {
+      "name": "ディープブルー",
+      "hex_code": "#1D4763",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ライトブルー",
+      "hex_code": "#5FC1C7",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#E6E500",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ブラック",
+      "hex_code": "#1E1210",
+      "tone_name": null
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#C3D82D",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールブルー",
+      "hex_code": "#CFDEDF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "グレイッシュオレンジ",
+      "hex_code": "#A2997F",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ダークグレイッシュオレンジ",
+      "hex_code": "#6E6457",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ライトブルー",
+      "hex_code": "#9CD8F6",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ブライトブルー",
+      "hex_code": "#00B4B6",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ブライトレッド",
+      "hex_code": "#E95884",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ライトブルー",
+      "hex_code": "#7DBCE8",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ビビッドイエロー",
+      "hex_code": "#FFE207",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E83820",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ライトパープル",
+      "hex_code": "#D5A6E9",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ライトグリーン",
+      "hex_code": "#A4EBB3",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ストロングパープル",
+      "hex_code": "#952DBF",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ペールパープル",
+      "hex_code": "#EBE1F0",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ストロンググリーン",
+      "hex_code": "#25C748",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ダークパープル",
+      "hex_code": "#411C50",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ディープオレンジ",
+      "hex_code": "#885517",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ビビッドブルー",
+      "hex_code": "#1C67E9",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ブライトグリーン",
+      "hex_code": "#5CEB7B",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ダークグレイッシュイエロー",
+      "hex_code": "#5F5E45",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ダルイエロー",
+      "hex_code": "#A3A058",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ダークオレンジ",
+      "hex_code": "#50391C",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "グレイッシュパープル",
+      "hex_code": "#9E88A6",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ブライトパープル",
+      "hex_code": "#C25CEB",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ビビッドグリーン",
+      "hex_code": "#1CE948",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダークイエロー",
+      "hex_code": "#4D4C1F",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ライトグリーン",
+      "hex_code": "#A8E7B5",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ビビッドパープル",
+      "hex_code": "#AF1CE9",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ペールパープル",
+      "hex_code": "#ECE1F0",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "ダークグレイッシュイエロー",
+      "hex_code": "#5E5D46",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ダルイエロー",
+      "hex_code": "#A4A157",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ディープオレンジ",
+      "hex_code": "#83541C",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ライトパープル",
+      "hex_code": "#D6A4EB",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ダークオレンジ",
+      "hex_code": "#4E391E",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ビビッドブルー",
+      "hex_code": "#1766EE",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドグリーン",
+      "hex_code": "#17EE46",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ブライトパープル",
+      "hex_code": "#C459EE",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ブライトグリーン",
+      "hex_code": "#54F377",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "グレイッシュパープル",
+      "hex_code": "#9D89A5",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ダークパープル",
+      "hex_code": "#411E4E",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ストロンググリーン",
+      "hex_code": "#2DBF4C",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ストロングパープル",
+      "hex_code": "#962AC2",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ビビッドパープル",
+      "hex_code": "#B117EE",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダークイエロー",
+      "hex_code": "#4E4D1E",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ペールパープル",
+      "hex_code": "#EBE2EF",
+      "tone_name": "ペール"
+    },
+    {
+      "name": "グレイッシュパープル",
+      "hex_code": "#9D8AA4",
+      "tone_name": "グレイッシュ"
+    },
+    {
+      "name": "ライトグリーン",
+      "hex_code": "#A6E9B5",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ダルイエロー",
+      "hex_code": "#A7A454",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ディープオレンジ",
+      "hex_code": "#85541A",
+      "tone_name": "ディープ"
+    },
+    {
+      "name": "ストロンググリーン",
+      "hex_code": "#2AC24A",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ライトパープル",
+      "hex_code": "#D5A8E7",
+      "tone_name": "ライト"
+    },
+    {
+      "name": "ブライトグリーン",
+      "hex_code": "#59EE79",
+      "tone_name": "ブライト"
+    },
+    {
+      "name": "ダークイエロー",
+      "hex_code": "#504E1C",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ビビッドブルー",
+      "hex_code": "#1164F5",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダークグレイッシュイエロー",
+      "hex_code": "#5E5D47",
+      "tone_name": "ダークグレイッシュ"
+    },
+    {
+      "name": "ダークパープル",
+      "hex_code": "#401F4D",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ストロングパープル",
+      "hex_code": "#9825C7",
+      "tone_name": "ストロング"
+    },
+    {
+      "name": "ビビッドグリーン",
+      "hex_code": "#11F542",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドパープル",
+      "hex_code": "#B411F5",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダークオレンジ",
+      "hex_code": "#4D381F",
+      "tone_name": "ダーク"
+    },
+    {
+      "name": "ブライトパープル",
+      "hex_code": "#C654F3",
+      "tone_name": "ブライト"
+    }
+  ],
+  "palettes": [
+    {
+      "source_id": "R001",
+      "base_hex": "#EFEBE0",
+      "base_ratio": 60,
+      "sub_hex": "#F7C3BF",
+      "sub_ratio": 30,
+      "accent_hex": "#8AC8CF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R002",
+      "base_hex": "#F3EED5",
+      "base_ratio": 60,
+      "sub_hex": "#D4DFBB",
+      "sub_ratio": 30,
+      "accent_hex": "#E4AF9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R003",
+      "base_hex": "#B9CDBF",
+      "base_ratio": 65,
+      "sub_hex": "#EFD4CD",
+      "sub_ratio": 25,
+      "accent_hex": "#604461",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R004",
+      "base_hex": "#BDD8DD",
+      "base_ratio": 60,
+      "sub_hex": "#E6C5CF",
+      "sub_ratio": 30,
+      "accent_hex": "#AF9DC0",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R005",
+      "base_hex": "#C0E4F2",
+      "base_ratio": 55,
+      "sub_hex": "#F7C4D4",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R006",
+      "base_hex": "#8AB0BC",
+      "base_ratio": 60,
+      "sub_hex": "#E6AFCF",
+      "sub_ratio": 30,
+      "accent_hex": "#F8F5B5",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R007",
+      "base_hex": "#BFC9BD",
+      "base_ratio": 55,
+      "sub_hex": "#C1D1E0",
+      "sub_ratio": 30,
+      "accent_hex": "#EFE5CB",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R008",
+      "base_hex": "#E4C6A6",
+      "base_ratio": 55,
+      "sub_hex": "#E6CD8C",
+      "sub_ratio": 30,
+      "accent_hex": "#8E775D",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R009",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 55,
+      "sub_hex": "#D3E9D0",
+      "sub_ratio": 30,
+      "accent_hex": "#E0B6A9",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R010",
+      "base_hex": "#E1B985",
+      "base_ratio": 60,
+      "sub_hex": "#FDD23E",
+      "sub_ratio": 30,
+      "accent_hex": "#00A08D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R011",
+      "base_hex": "#DC5F36",
+      "base_ratio": 55,
+      "sub_hex": "#F7E3AF",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R012",
+      "base_hex": "#A2A2AD",
+      "base_ratio": 65,
+      "sub_hex": "#DCD5C8",
+      "sub_ratio": 25,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R013",
+      "base_hex": "#BEE0CC",
+      "base_ratio": 60,
+      "sub_hex": "#ECBBB5",
+      "sub_ratio": 30,
+      "accent_hex": "#E99BC1",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R014",
+      "base_hex": "#E0F1F1",
+      "base_ratio": 60,
+      "sub_hex": "#AED265",
+      "sub_ratio": 30,
+      "accent_hex": "#5188B1",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R015",
+      "base_hex": "#F3E7EA",
+      "base_ratio": 55,
+      "sub_hex": "#D2E7BF",
+      "sub_ratio": 30,
+      "accent_hex": "#D7D486",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R016",
+      "base_hex": "#D9EAEC",
+      "base_ratio": 60,
+      "sub_hex": "#BCD537",
+      "sub_ratio": 30,
+      "accent_hex": "#74A64C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R017",
+      "base_hex": "#984F9B",
+      "base_ratio": 65,
+      "sub_hex": "#EB6143",
+      "sub_ratio": 25,
+      "accent_hex": "#FFE33F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R018",
+      "base_hex": "#DFE2EA",
+      "base_ratio": 55,
+      "sub_hex": "#CAE5D3",
+      "sub_ratio": 30,
+      "accent_hex": "#9CC9E5",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R019",
+      "base_hex": "#A660A3",
+      "base_ratio": 65,
+      "sub_hex": "#EA6096",
+      "sub_ratio": 25,
+      "accent_hex": "#D80C18",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R020",
+      "base_hex": "#31B6A0",
+      "base_ratio": 60,
+      "sub_hex": "#EF8BB6",
+      "sub_ratio": 30,
+      "accent_hex": "#FFDA2A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R021",
+      "base_hex": "#C4D700",
+      "base_ratio": 55,
+      "sub_hex": "#FFEE7D",
+      "sub_ratio": 30,
+      "accent_hex": "#F49C2D",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R022",
+      "base_hex": "#00979B",
+      "base_ratio": 60,
+      "sub_hex": "#C03619",
+      "sub_ratio": 30,
+      "accent_hex": "#EBD880",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R023",
+      "base_hex": "#2E499D",
+      "base_ratio": 65,
+      "sub_hex": "#D13209",
+      "sub_ratio": 25,
+      "accent_hex": "#FFDE00",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R024",
+      "base_hex": "#957E80",
+      "base_ratio": 60,
+      "sub_hex": "#EFC3BD",
+      "sub_ratio": 30,
+      "accent_hex": "#F5E8CF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R025",
+      "base_hex": "#F6B7AA",
+      "base_ratio": 65,
+      "sub_hex": "#FAE06A",
+      "sub_ratio": 25,
+      "accent_hex": "#0E536D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R026",
+      "base_hex": "#F08437",
+      "base_ratio": 65,
+      "sub_hex": "#00A040",
+      "sub_ratio": 25,
+      "accent_hex": "#E6191C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R027",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 55,
+      "sub_hex": "#C2E2D2",
+      "sub_ratio": 30,
+      "accent_hex": "#F8CCD1",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R028",
+      "base_hex": "#FFF8EE",
+      "base_ratio": 60,
+      "sub_hex": "#F9CFD1",
+      "sub_ratio": 30,
+      "accent_hex": "#F39F89",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R029",
+      "base_hex": "#64C0AB",
+      "base_ratio": 60,
+      "sub_hex": "#E85298",
+      "sub_ratio": 30,
+      "accent_hex": "#4D4398",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R030",
+      "base_hex": "#2BB7B3",
+      "base_ratio": 70,
+      "sub_hex": "#ED6D46",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF100",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R031",
+      "base_hex": "#EAF6FD",
+      "base_ratio": 70,
+      "sub_hex": "#002A5B",
+      "sub_ratio": 25,
+      "accent_hex": "#D7000F",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R032",
+      "base_hex": "#13AE67",
+      "base_ratio": 65,
+      "sub_hex": "#E8382F",
+      "sub_ratio": 25,
+      "accent_hex": "#FFEB27",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R033",
+      "base_hex": "#D3E7F5",
+      "base_ratio": 60,
+      "sub_hex": "#F3ABC0",
+      "sub_ratio": 30,
+      "accent_hex": "#DD5B9C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R034",
+      "base_hex": "#A7D9DD",
+      "base_ratio": 60,
+      "sub_hex": "#F3ADC5",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF2B2",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R035",
+      "base_hex": "#FFF6E4",
+      "base_ratio": 60,
+      "sub_hex": "#F9D2D9",
+      "sub_ratio": 30,
+      "accent_hex": "#84CCCE",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R036",
+      "base_hex": "#DED3D6",
+      "base_ratio": 55,
+      "sub_hex": "#C0E4F2",
+      "sub_ratio": 30,
+      "accent_hex": "#FFFCD7",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R037",
+      "base_hex": "#E0F1F4",
+      "base_ratio": 60,
+      "sub_hex": "#FACA7B",
+      "sub_ratio": 30,
+      "accent_hex": "#F096A0",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R038",
+      "base_hex": "#494544",
+      "base_ratio": 70,
+      "sub_hex": "#BAC8C6",
+      "sub_ratio": 25,
+      "accent_hex": "#C41A30",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R039",
+      "base_hex": "#092237",
+      "base_ratio": 60,
+      "sub_hex": "#6A4928",
+      "sub_ratio": 30,
+      "accent_hex": "#4977BC",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R040",
+      "base_hex": "#E7B09F",
+      "base_ratio": 55,
+      "sub_hex": "#EEE2D3",
+      "sub_ratio": 30,
+      "accent_hex": "#C39C89",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R041",
+      "base_hex": "#003740",
+      "base_ratio": 65,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 25,
+      "accent_hex": "#D4B572",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R042",
+      "base_hex": "#E3DFDC",
+      "base_ratio": 65,
+      "sub_hex": "#FFF5E0",
+      "sub_ratio": 25,
+      "accent_hex": "#1A0B08",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R043",
+      "base_hex": "#F5F3F2",
+      "base_ratio": 60,
+      "sub_hex": "#E7BE99",
+      "sub_ratio": 30,
+      "accent_hex": "#D1AE15",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R044",
+      "base_hex": "#EAE4D1",
+      "base_ratio": 60,
+      "sub_hex": "#A87570",
+      "sub_ratio": 30,
+      "accent_hex": "#6C8650",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R045",
+      "base_hex": "#F8C8B2",
+      "base_ratio": 65,
+      "sub_hex": "#669B76",
+      "sub_ratio": 25,
+      "accent_hex": "#004C86",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R046",
+      "base_hex": "#303967",
+      "base_ratio": 70,
+      "sub_hex": "#E60012",
+      "sub_ratio": 25,
+      "accent_hex": "#FFE200",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R047",
+      "base_hex": "#34485E",
+      "base_ratio": 60,
+      "sub_hex": "#3C7D9B",
+      "sub_ratio": 30,
+      "accent_hex": "#5B9F8A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R048",
+      "base_hex": "#462E2E",
+      "base_ratio": 65,
+      "sub_hex": "#AD722F",
+      "sub_ratio": 25,
+      "accent_hex": "#CFAA2A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R049",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 65,
+      "sub_hex": "#DBCBC7",
+      "sub_ratio": 25,
+      "accent_hex": "#7F5072",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R050",
+      "base_hex": "#63676B",
+      "base_ratio": 65,
+      "sub_hex": "#4B7A7C",
+      "sub_ratio": 25,
+      "accent_hex": "#D2D5EC",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R051",
+      "base_hex": "#3E3A3A",
+      "base_ratio": 65,
+      "sub_hex": "#CED7DC",
+      "sub_ratio": 25,
+      "accent_hex": "#E6E5EF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R052",
+      "base_hex": "#150201",
+      "base_ratio": 65,
+      "sub_hex": "#00213B",
+      "sub_ratio": 25,
+      "accent_hex": "#CEE2DF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R053",
+      "base_hex": "#D7B63D",
+      "base_ratio": 55,
+      "sub_hex": "#F8ECBA",
+      "sub_ratio": 30,
+      "accent_hex": "#CB7F69",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R054",
+      "base_hex": "#F2A1A6",
+      "base_ratio": 60,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 30,
+      "accent_hex": "#00A479",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R055",
+      "base_hex": "#ECE4E1",
+      "base_ratio": 60,
+      "sub_hex": "#EAC5B6",
+      "sub_ratio": 30,
+      "accent_hex": "#C1A37D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R056",
+      "base_hex": "#FCE9ED",
+      "base_ratio": 60,
+      "sub_hex": "#F3A7AC",
+      "sub_ratio": 30,
+      "accent_hex": "#DDE67B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R057",
+      "base_hex": "#F6C0D1",
+      "base_ratio": 55,
+      "sub_hex": "#FCEBEF",
+      "sub_ratio": 30,
+      "accent_hex": "#EF8893",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R058",
+      "base_hex": "#FEEEDC",
+      "base_ratio": 60,
+      "sub_hex": "#BDE1DA",
+      "sub_ratio": 30,
+      "accent_hex": "#F5B5A7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R059",
+      "base_hex": "#9FD9F6",
+      "base_ratio": 65,
+      "sub_hex": "#FDD000",
+      "sub_ratio": 25,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R060",
+      "base_hex": "#F6BAB2",
+      "base_ratio": 60,
+      "sub_hex": "#74B5E4",
+      "sub_ratio": 30,
+      "accent_hex": "#FFE56D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R061",
+      "base_hex": "#FCF7B0",
+      "base_ratio": 65,
+      "sub_hex": "#E8380D",
+      "sub_ratio": 25,
+      "accent_hex": "#004C83",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R062",
+      "base_hex": "#F0831E",
+      "base_ratio": 55,
+      "sub_hex": "#FEEBBE",
+      "sub_ratio": 30,
+      "accent_hex": "#BC6E2E",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R063",
+      "base_hex": "#2A4743",
+      "base_ratio": 60,
+      "sub_hex": "#7C2E1E",
+      "sub_ratio": 30,
+      "accent_hex": "#B19962",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R064",
+      "base_hex": "#F18D00",
+      "base_ratio": 65,
+      "sub_hex": "#C2CE00",
+      "sub_ratio": 25,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R065",
+      "base_hex": "#DCC58C",
+      "base_ratio": 70,
+      "sub_hex": "#478657",
+      "sub_ratio": 25,
+      "accent_hex": "#DB3A09",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R066",
+      "base_hex": "#D8DBD9",
+      "base_ratio": 60,
+      "sub_hex": "#79A7D9",
+      "sub_ratio": 30,
+      "accent_hex": "#4F85A6",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R067",
+      "base_hex": "#CE6845",
+      "base_ratio": 60,
+      "sub_hex": "#8B272B",
+      "sub_ratio": 30,
+      "accent_hex": "#E5006A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R068",
+      "base_hex": "#F7F3EC",
+      "base_ratio": 60,
+      "sub_hex": "#F9D6E2",
+      "sub_ratio": 30,
+      "accent_hex": "#F4AA9A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R069",
+      "base_hex": "#F3DEB9",
+      "base_ratio": 60,
+      "sub_hex": "#E8AAA3",
+      "sub_ratio": 30,
+      "accent_hex": "#AEAC78",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R070",
+      "base_hex": "#B7CDDA",
+      "base_ratio": 70,
+      "sub_hex": "#C1A858",
+      "sub_ratio": 25,
+      "accent_hex": "#E94709",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R071",
+      "base_hex": "#FFFDE1",
+      "base_ratio": 65,
+      "sub_hex": "#D6B845",
+      "sub_ratio": 25,
+      "accent_hex": "#B32425",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R072",
+      "base_hex": "#150C15",
+      "base_ratio": 65,
+      "sub_hex": "#917C50",
+      "sub_ratio": 25,
+      "accent_hex": "#9A1117",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R073",
+      "base_hex": "#F7F3E9",
+      "base_ratio": 70,
+      "sub_hex": "#DEB253",
+      "sub_ratio": 25,
+      "accent_hex": "#E02613",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R074",
+      "base_hex": "#B9C9C9",
+      "base_ratio": 65,
+      "sub_hex": "#4B6251",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R075",
+      "base_hex": "#AAABAB",
+      "base_ratio": 65,
+      "sub_hex": "#F7BBA2",
+      "sub_ratio": 25,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R076",
+      "base_hex": "#E6DFCB",
+      "base_ratio": 70,
+      "sub_hex": "#567947",
+      "sub_ratio": 25,
+      "accent_hex": "#EB5A09",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R077",
+      "base_hex": "#BBE3F5",
+      "base_ratio": 65,
+      "sub_hex": "#DA6A38",
+      "sub_ratio": 25,
+      "accent_hex": "#254678",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R078",
+      "base_hex": "#E8EBE7",
+      "base_ratio": 60,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 30,
+      "accent_hex": "#76A1B8",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R079",
+      "base_hex": "#AA998A",
+      "base_ratio": 60,
+      "sub_hex": "#9EC3BC",
+      "sub_ratio": 30,
+      "accent_hex": "#EADFCA",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R080",
+      "base_hex": "#F4AC92",
+      "base_ratio": 60,
+      "sub_hex": "#35B5D2",
+      "sub_ratio": 30,
+      "accent_hex": "#FED52B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R081",
+      "base_hex": "#198B86",
+      "base_ratio": 65,
+      "sub_hex": "#EA5520",
+      "sub_ratio": 25,
+      "accent_hex": "#F6D60F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R082",
+      "base_hex": "#0D955A",
+      "base_ratio": 60,
+      "sub_hex": "#E7A100",
+      "sub_ratio": 30,
+      "accent_hex": "#9F002D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R083",
+      "base_hex": "#003F67",
+      "base_ratio": 65,
+      "sub_hex": "#AD0003",
+      "sub_ratio": 25,
+      "accent_hex": "#FEDD6B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R084",
+      "base_hex": "#F5B8CC",
+      "base_ratio": 60,
+      "sub_hex": "#4ABCB9",
+      "sub_ratio": 30,
+      "accent_hex": "#2E69B3",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R085",
+      "base_hex": "#144DA0",
+      "base_ratio": 55,
+      "sub_hex": "#70ACCE",
+      "sub_ratio": 30,
+      "accent_hex": "#101841",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "R086",
+      "base_hex": "#68666C",
+      "base_ratio": 65,
+      "sub_hex": "#D2DDDE",
+      "sub_ratio": 25,
+      "accent_hex": "#EE7D50",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R087",
+      "base_hex": "#D4ECEA",
+      "base_ratio": 60,
+      "sub_hex": "#A7D28F",
+      "sub_ratio": 30,
+      "accent_hex": "#63A6DB",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R088",
+      "base_hex": "#1D4763",
+      "base_ratio": 70,
+      "sub_hex": "#5FC1C7",
+      "sub_ratio": 25,
+      "accent_hex": "#E6E500",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R089",
+      "base_hex": "#1E1210",
+      "base_ratio": 70,
+      "sub_hex": "#C3D82D",
+      "sub_ratio": 25,
+      "accent_hex": "#FFE200",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R090",
+      "base_hex": "#CFDEDF",
+      "base_ratio": 65,
+      "sub_hex": "#A2997F",
+      "sub_ratio": 25,
+      "accent_hex": "#6E6457",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "R091",
+      "base_hex": "#9CD8F6",
+      "base_ratio": 70,
+      "sub_hex": "#00B4B6",
+      "sub_ratio": 25,
+      "accent_hex": "#E95884",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "R092",
+      "base_hex": "#7DBCE8",
+      "base_ratio": 70,
+      "sub_hex": "#FFE207",
+      "sub_ratio": 25,
+      "accent_hex": "#E83820",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N001",
+      "base_hex": "#D5A6E9",
+      "base_ratio": 70,
+      "sub_hex": "#A4EBB3",
+      "sub_ratio": 25,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N002",
+      "base_hex": "#EBE1F0",
+      "base_ratio": 65,
+      "sub_hex": "#25C748",
+      "sub_ratio": 25,
+      "accent_hex": "#411C50",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N003",
+      "base_hex": "#885517",
+      "base_ratio": 70,
+      "sub_hex": "#1C67E9",
+      "sub_ratio": 25,
+      "accent_hex": "#5CEB7B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N004",
+      "base_hex": "#5F5E45",
+      "base_ratio": 55,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 30,
+      "accent_hex": "#50391C",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "N005",
+      "base_hex": "#9E88A6",
+      "base_ratio": 70,
+      "sub_hex": "#C25CEB",
+      "sub_ratio": 25,
+      "accent_hex": "#1CE948",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N006",
+      "base_hex": "#4D4C1F",
+      "base_ratio": 70,
+      "sub_hex": "#A8E7B5",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N007",
+      "base_hex": "#ECE1F0",
+      "base_ratio": 65,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 25,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N008",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 60,
+      "sub_hex": "#5B9F8A",
+      "sub_ratio": 30,
+      "accent_hex": "#B15A5E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N009",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 65,
+      "sub_hex": "#CB7F69",
+      "sub_ratio": 25,
+      "accent_hex": "#5E5D46",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N010",
+      "base_hex": "#A4A157",
+      "base_ratio": 60,
+      "sub_hex": "#83541C",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N011",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 65,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 25,
+      "accent_hex": "#34485E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N012",
+      "base_hex": "#76A1B8",
+      "base_ratio": 65,
+      "sub_hex": "#D6A4EB",
+      "sub_ratio": 25,
+      "accent_hex": "#4E391E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N013",
+      "base_hex": "#6C8650",
+      "base_ratio": 70,
+      "sub_hex": "#1766EE",
+      "sub_ratio": 25,
+      "accent_hex": "#17EE46",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N014",
+      "base_hex": "#462E2E",
+      "base_ratio": 70,
+      "sub_hex": "#C459EE",
+      "sub_ratio": 25,
+      "accent_hex": "#54F377",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N015",
+      "base_hex": "#9D89A5",
+      "base_ratio": 65,
+      "sub_hex": "#2A4743",
+      "sub_ratio": 25,
+      "accent_hex": "#411E4E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N016",
+      "base_hex": "#2DBF4C",
+      "base_ratio": 70,
+      "sub_hex": "#962AC2",
+      "sub_ratio": 25,
+      "accent_hex": "#B117EE",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N017",
+      "base_hex": "#604461",
+      "base_ratio": 60,
+      "sub_hex": "#4E4D1E",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N018",
+      "base_hex": "#EBE2EF",
+      "base_ratio": 65,
+      "sub_hex": "#AEAC78",
+      "sub_ratio": 25,
+      "accent_hex": "#B15A5E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N019",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 60,
+      "sub_hex": "#C9C2E0",
+      "sub_ratio": 30,
+      "accent_hex": "#9D8AA4",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N020",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 60,
+      "sub_hex": "#A6E9B5",
+      "sub_ratio": 30,
+      "accent_hex": "#A7A454",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N021",
+      "base_hex": "#CB7F69",
+      "base_ratio": 70,
+      "sub_hex": "#85541A",
+      "sub_ratio": 25,
+      "accent_hex": "#2AC24A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N022",
+      "base_hex": "#462E2E",
+      "base_ratio": 65,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 25,
+      "accent_hex": "#C9BE72",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N023",
+      "base_hex": "#D5A8E7",
+      "base_ratio": 70,
+      "sub_hex": "#478657",
+      "sub_ratio": 25,
+      "accent_hex": "#59EE79",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N024",
+      "base_hex": "#6E6457",
+      "base_ratio": 60,
+      "sub_hex": "#A87570",
+      "sub_ratio": 30,
+      "accent_hex": "#504E1C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N025",
+      "base_hex": "#917C50",
+      "base_ratio": 60,
+      "sub_hex": "#6C8650",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N026",
+      "base_hex": "#AF9DC0",
+      "base_ratio": 70,
+      "sub_hex": "#2A4743",
+      "sub_ratio": 25,
+      "accent_hex": "#1164F5",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N027",
+      "base_hex": "#5E5D47",
+      "base_ratio": 65,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 25,
+      "accent_hex": "#401F4D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N028",
+      "base_hex": "#4B6251",
+      "base_ratio": 60,
+      "sub_hex": "#5B9F8A",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N029",
+      "base_hex": "#C25CEB",
+      "base_ratio": 70,
+      "sub_hex": "#9825C7",
+      "sub_ratio": 25,
+      "accent_hex": "#11F542",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N030",
+      "base_hex": "#34485E",
+      "base_ratio": 70,
+      "sub_hex": "#604461",
+      "sub_ratio": 25,
+      "accent_hex": "#B411F5",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N031",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 65,
+      "sub_hex": "#00B4B6",
+      "sub_ratio": 25,
+      "accent_hex": "#4D381F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N032",
+      "base_hex": "#E8EBE7",
+      "base_ratio": 60,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 30,
+      "accent_hex": "#A7D28F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N033",
+      "base_hex": "#A6E9B5",
+      "base_ratio": 60,
+      "sub_hex": "#5CEB7B",
+      "sub_ratio": 30,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N034",
+      "base_hex": "#ECE1F0",
+      "base_ratio": 60,
+      "sub_hex": "#957E80",
+      "sub_ratio": 30,
+      "accent_hex": "#6C8650",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N035",
+      "base_hex": "#85541A",
+      "base_ratio": 60,
+      "sub_hex": "#2E69B3",
+      "sub_ratio": 30,
+      "accent_hex": "#D6A4EB",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N036",
+      "base_hex": "#E4AF9B",
+      "base_ratio": 70,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 25,
+      "accent_hex": "#1164F5",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N037",
+      "base_hex": "#B19962",
+      "base_ratio": 60,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 30,
+      "accent_hex": "#504E1C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N038",
+      "base_hex": "#AEAC78",
+      "base_ratio": 60,
+      "sub_hex": "#6A4928",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N039",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 65,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 25,
+      "accent_hex": "#604461",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N040",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 65,
+      "sub_hex": "#917C50",
+      "sub_ratio": 25,
+      "accent_hex": "#34485E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N041",
+      "base_hex": "#A7A454",
+      "base_ratio": 70,
+      "sub_hex": "#411E4E",
+      "sub_ratio": 25,
+      "accent_hex": "#11F542",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N042",
+      "base_hex": "#50391C",
+      "base_ratio": 55,
+      "sub_hex": "#CB7F69",
+      "sub_ratio": 30,
+      "accent_hex": "#462E2E",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "N043",
+      "base_hex": "#567947",
+      "base_ratio": 70,
+      "sub_hex": "#25C748",
+      "sub_ratio": 25,
+      "accent_hex": "#C654F3",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N044",
+      "base_hex": "#9D8AA4",
+      "base_ratio": 60,
+      "sub_hex": "#5F5E45",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N045",
+      "base_hex": "#2A4743",
+      "base_ratio": 70,
+      "sub_hex": "#5B9F8A",
+      "sub_ratio": 25,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N046",
+      "base_hex": "#150C15",
+      "base_ratio": 70,
+      "sub_hex": "#4B6251",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N047",
+      "base_hex": "#EBE2EF",
+      "base_ratio": 60,
+      "sub_hex": "#CB7F69",
+      "sub_ratio": 30,
+      "accent_hex": "#E7A100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N048",
+      "base_hex": "#6E6457",
+      "base_ratio": 65,
+      "sub_hex": "#7C2E1E",
+      "sub_ratio": 25,
+      "accent_hex": "#C9BE72",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N049",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 60,
+      "sub_hex": "#A4EBB3",
+      "sub_ratio": 30,
+      "accent_hex": "#8E775D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N050",
+      "base_hex": "#4E4D1E",
+      "base_ratio": 70,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 25,
+      "accent_hex": "#2DBF4C",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N051",
+      "base_hex": "#6C8650",
+      "base_ratio": 70,
+      "sub_hex": "#0068B7",
+      "sub_ratio": 25,
+      "accent_hex": "#59EE79",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N052",
+      "base_hex": "#F5F3F2",
+      "base_ratio": 65,
+      "sub_hex": "#A2997F",
+      "sub_ratio": 25,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N053",
+      "base_hex": "#957E80",
+      "base_ratio": 60,
+      "sub_hex": "#567947",
+      "sub_ratio": 30,
+      "accent_hex": "#E4AF9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N054",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 65,
+      "sub_hex": "#A7D28F",
+      "sub_ratio": 25,
+      "accent_hex": "#411C50",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N055",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 70,
+      "sub_hex": "#AEAC78",
+      "sub_ratio": 25,
+      "accent_hex": "#1C67E9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N056",
+      "base_hex": "#462E2E",
+      "base_ratio": 65,
+      "sub_hex": "#885517",
+      "sub_ratio": 25,
+      "accent_hex": "#76A1B8",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N057",
+      "base_hex": "#D5A8E7",
+      "base_ratio": 70,
+      "sub_hex": "#A660A3",
+      "sub_ratio": 25,
+      "accent_hex": "#1CE948",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N058",
+      "base_hex": "#34485E",
+      "base_ratio": 60,
+      "sub_hex": "#5B9F8A",
+      "sub_ratio": 30,
+      "accent_hex": "#A4A157",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N059",
+      "base_hex": "#AF9DC0",
+      "base_ratio": 60,
+      "sub_hex": "#4B6251",
+      "sub_ratio": 30,
+      "accent_hex": "#604461",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N060",
+      "base_hex": "#5E5D46",
+      "base_ratio": 60,
+      "sub_hex": "#4E391E",
+      "sub_ratio": 30,
+      "accent_hex": "#B15A5E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N061",
+      "base_hex": "#B117EE",
+      "base_ratio": 55,
+      "sub_hex": "#C459EE",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "N062",
+      "base_hex": "#9E88A6",
+      "base_ratio": 70,
+      "sub_hex": "#2A4743",
+      "sub_ratio": 25,
+      "accent_hex": "#962AC2",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N063",
+      "base_hex": "#150201",
+      "base_ratio": 65,
+      "sub_hex": "#D9D8CE",
+      "sub_ratio": 25,
+      "accent_hex": "#DCD5C8",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N064",
+      "base_hex": "#462E2E",
+      "base_ratio": 65,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 25,
+      "accent_hex": "#EE7D50",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N065",
+      "base_hex": "#ECE4E1",
+      "base_ratio": 60,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 30,
+      "accent_hex": "#F49C2D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N066",
+      "base_hex": "#CAE5D3",
+      "base_ratio": 65,
+      "sub_hex": "#C654F3",
+      "sub_ratio": 25,
+      "accent_hex": "#401F4D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N067",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 60,
+      "sub_hex": "#A7D9DD",
+      "sub_ratio": 30,
+      "accent_hex": "#5B9F8A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N068",
+      "base_hex": "#EBE1F0",
+      "base_ratio": 60,
+      "sub_hex": "#F3EED5",
+      "sub_ratio": 30,
+      "accent_hex": "#64C0AB",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N069",
+      "base_hex": "#8E775D",
+      "base_ratio": 70,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 25,
+      "accent_hex": "#54F377",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N070",
+      "base_hex": "#C39C89",
+      "base_ratio": 60,
+      "sub_hex": "#6C8650",
+      "sub_ratio": 30,
+      "accent_hex": "#9F002D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N071",
+      "base_hex": "#AF9DC0",
+      "base_ratio": 60,
+      "sub_hex": "#A8E7B5",
+      "sub_ratio": 30,
+      "accent_hex": "#567947",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N072",
+      "base_hex": "#4B6251",
+      "base_ratio": 60,
+      "sub_hex": "#00B4B6",
+      "sub_ratio": 30,
+      "accent_hex": "#D5A6E9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N073",
+      "base_hex": "#5E5D47",
+      "base_ratio": 60,
+      "sub_hex": "#83541C",
+      "sub_ratio": 30,
+      "accent_hex": "#A87570",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N074",
+      "base_hex": "#34485E",
+      "base_ratio": 60,
+      "sub_hex": "#6A4928",
+      "sub_ratio": 30,
+      "accent_hex": "#CB7F69",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N075",
+      "base_hex": "#2A4743",
+      "base_ratio": 65,
+      "sub_hex": "#0054A7",
+      "sub_ratio": 25,
+      "accent_hex": "#AEAC78",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N076",
+      "base_hex": "#604461",
+      "base_ratio": 70,
+      "sub_hex": "#1766EE",
+      "sub_ratio": 25,
+      "accent_hex": "#2AC24A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N077",
+      "base_hex": "#76A1B8",
+      "base_ratio": 60,
+      "sub_hex": "#4D4C1F",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N078",
+      "base_hex": "#AA998A",
+      "base_ratio": 60,
+      "sub_hex": "#9D89A5",
+      "sub_ratio": 30,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N079",
+      "base_hex": "#601986",
+      "base_ratio": 70,
+      "sub_hex": "#9825C7",
+      "sub_ratio": 25,
+      "accent_hex": "#17EE46",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N080",
+      "base_hex": "#150201",
+      "base_ratio": 70,
+      "sub_hex": "#4D381F",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N081",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 55,
+      "sub_hex": "#ECE1F0",
+      "sub_ratio": 30,
+      "accent_hex": "#B9CDBF",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "N082",
+      "base_hex": "#EAE4D1",
+      "base_ratio": 60,
+      "sub_hex": "#A4EBB3",
+      "sub_ratio": 30,
+      "accent_hex": "#C9BE72",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N083",
+      "base_hex": "#CEE2DF",
+      "base_ratio": 60,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 30,
+      "accent_hex": "#CB7F69",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N084",
+      "base_hex": "#00B4B6",
+      "base_ratio": 65,
+      "sub_hex": "#EB5A09",
+      "sub_ratio": 25,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N085",
+      "base_hex": "#5E5D47",
+      "base_ratio": 65,
+      "sub_hex": "#7C2E1E",
+      "sub_ratio": 25,
+      "accent_hex": "#DEB253",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N086",
+      "base_hex": "#E3DFDC",
+      "base_ratio": 60,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 30,
+      "accent_hex": "#AD722F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N087",
+      "base_hex": "#63676B",
+      "base_ratio": 65,
+      "sub_hex": "#D9D8CE",
+      "sub_ratio": 25,
+      "accent_hex": "#A7A454",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N088",
+      "base_hex": "#C1A37D",
+      "base_ratio": 70,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 25,
+      "accent_hex": "#2DBF4C",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N089",
+      "base_hex": "#462E2E",
+      "base_ratio": 60,
+      "sub_hex": "#917C50",
+      "sub_ratio": 30,
+      "accent_hex": "#2E69B3",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N090",
+      "base_hex": "#64C0AB",
+      "base_ratio": 70,
+      "sub_hex": "#5CEB7B",
+      "sub_ratio": 25,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N091",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 60,
+      "sub_hex": "#D5A8E7",
+      "sub_ratio": 30,
+      "accent_hex": "#6C8650",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N092",
+      "base_hex": "#34485E",
+      "base_ratio": 60,
+      "sub_hex": "#4D381F",
+      "sub_ratio": 30,
+      "accent_hex": "#B19962",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N093",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 60,
+      "sub_hex": "#885517",
+      "sub_ratio": 30,
+      "accent_hex": "#4D4C1F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N094",
+      "base_hex": "#A660A3",
+      "base_ratio": 65,
+      "sub_hex": "#C25CEB",
+      "sub_ratio": 25,
+      "accent_hex": "#1C67E9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N095",
+      "base_hex": "#4B6251",
+      "base_ratio": 60,
+      "sub_hex": "#478657",
+      "sub_ratio": 30,
+      "accent_hex": "#411C50",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N096",
+      "base_hex": "#AF9DC0",
+      "base_ratio": 70,
+      "sub_hex": "#5B9F8A",
+      "sub_ratio": 25,
+      "accent_hex": "#11F542",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N097",
+      "base_hex": "#957E80",
+      "base_ratio": 60,
+      "sub_hex": "#2A4743",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N098",
+      "base_hex": "#6E6457",
+      "base_ratio": 60,
+      "sub_hex": "#604461",
+      "sub_ratio": 30,
+      "accent_hex": "#9D89A5",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N099",
+      "base_hex": "#150C15",
+      "base_ratio": 70,
+      "sub_hex": "#567947",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N100",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 55,
+      "sub_hex": "#D3E9D0",
+      "sub_ratio": 30,
+      "accent_hex": "#D7D486",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "N101",
+      "base_hex": "#E8EBE7",
+      "base_ratio": 70,
+      "sub_hex": "#C1A37D",
+      "sub_ratio": 25,
+      "accent_hex": "#C2CE00",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N102",
+      "base_hex": "#C9BE72",
+      "base_ratio": 65,
+      "sub_hex": "#FDD23E",
+      "sub_ratio": 25,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N103",
+      "base_hex": "#4E391E",
+      "base_ratio": 60,
+      "sub_hex": "#002A5B",
+      "sub_ratio": 30,
+      "accent_hex": "#BC6E2E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N104",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 60,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 30,
+      "accent_hex": "#F0831E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N105",
+      "base_hex": "#68666C",
+      "base_ratio": 65,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 25,
+      "accent_hex": "#EBE1F0",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N106",
+      "base_hex": "#462E2E",
+      "base_ratio": 65,
+      "sub_hex": "#3C7D9B",
+      "sub_ratio": 25,
+      "accent_hex": "#D4B572",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N107",
+      "base_hex": "#BAC8C6",
+      "base_ratio": 65,
+      "sub_hex": "#C9C2E0",
+      "sub_ratio": 25,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N108",
+      "base_hex": "#B9C9C9",
+      "base_ratio": 60,
+      "sub_hex": "#8E775D",
+      "sub_ratio": 30,
+      "accent_hex": "#DC5F36",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N109",
+      "base_hex": "#9D8AA4",
+      "base_ratio": 65,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N110",
+      "base_hex": "#5E5D46",
+      "base_ratio": 60,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 30,
+      "accent_hex": "#A7D28F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N111",
+      "base_hex": "#A2997F",
+      "base_ratio": 60,
+      "sub_hex": "#D6A4EB",
+      "sub_ratio": 30,
+      "accent_hex": "#C03619",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N112",
+      "base_hex": "#5B9F8A",
+      "base_ratio": 65,
+      "sub_hex": "#A8E7B5",
+      "sub_ratio": 25,
+      "accent_hex": "#411E4E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N113",
+      "base_hex": "#504E1C",
+      "base_ratio": 60,
+      "sub_hex": "#8B272B",
+      "sub_ratio": 30,
+      "accent_hex": "#5FC1C7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N114",
+      "base_hex": "#2A4743",
+      "base_ratio": 70,
+      "sub_hex": "#CB7F69",
+      "sub_ratio": 25,
+      "accent_hex": "#54F377",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N115",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 70,
+      "sub_hex": "#34485E",
+      "sub_ratio": 25,
+      "accent_hex": "#2AC24A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N116",
+      "base_hex": "#6A4928",
+      "base_ratio": 60,
+      "sub_hex": "#6C8650",
+      "sub_ratio": 30,
+      "accent_hex": "#A3A058",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "N117",
+      "base_hex": "#A87570",
+      "base_ratio": 70,
+      "sub_hex": "#601986",
+      "sub_ratio": 25,
+      "accent_hex": "#1766EE",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N118",
+      "base_hex": "#7F5072",
+      "base_ratio": 70,
+      "sub_hex": "#85541A",
+      "sub_ratio": 25,
+      "accent_hex": "#1CE948",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "N119",
+      "base_hex": "#962AC2",
+      "base_ratio": 55,
+      "sub_hex": "#C459EE",
+      "sub_ratio": 30,
+      "accent_hex": "#604461",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "N120",
+      "base_hex": "#150201",
+      "base_ratio": 70,
+      "sub_hex": "#70372C",
+      "sub_ratio": 25,
+      "accent_hex": "#B411F5",
+      "accent_ratio": 5
+    }
+  ]
+}
