@@ -1,7 +1,11 @@
-import tones from "./tones.json";
+import { useState } from "react";
 import styles from "./App.module.css";
+import { ColorGrid } from "./components/ColorGrid.jsx";
+import { SelectedColorPanel } from "./components/SelectedColorPanel.jsx";
 
 export const App = () => {
+    const [selectedColor, setSelectedColor] = useState(null);
+
     return (
         <div className={styles.page}>
             <header className={styles.header}>
@@ -14,30 +18,8 @@ export const App = () => {
                 <p className={styles.introduction}>12種類のトーンを見比べて、服に近いベース色を選んでください。</p>
 
                 <div className={styles.colorSelection}>
-                    <div className={styles.toneGrid}>
-                        {/* 各トーンの色見本と選択ボタンは後で追加する */}
-                        {tones.map((tone) => (
-                            <fieldset key={tone.name} className={styles.toneCard}>
-                                <legend>{tone.name}</legend>
-                                <p>{tone.description}</p>
-                            </fieldset>
-                        ))}
-
-                        <fieldset className={styles.achromaticColors}>
-                            <legend>無彩色</legend>
-                            {/* 無彩色の色見本と選択ボタンは後で追加する */}
-                        </fieldset>
-                    </div>
-
-                    <section className={styles.selectedColor}>
-                        <h2>選択中のベース色</h2>
-                        <p className={styles.colorName}>色を選んでください。</p>
-                        <p className={styles.description}>この色を含む3色の配色を探します。</p>
-                        <button className={styles.searchButton}>
-                            この色の配色を見る →
-                        </button>
-                        <p className={styles.steps}>色を選ぶ → 配色を見比べる → 比率を確認</p>
-                    </section>
+                    <ColorGrid onSelectColor={setSelectedColor} />
+                    <SelectedColorPanel selectedColor={selectedColor} />
                 </div>
             </main>
 
