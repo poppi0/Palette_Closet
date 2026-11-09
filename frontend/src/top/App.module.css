@@ -99,6 +99,37 @@
     min-height: 76px;
 }
 
+.colorStatus {
+    grid-column: 1 / -1;
+}
+
+.colorList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 12px;
+}
+
+.achromaticColors .colorList {
+    justify-content: space-evenly;
+    column-gap: 0;
+}
+
+.colorButton {
+    flex: none;
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    border: 1px solid #dedfdb;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.colorButton:focus-visible {
+    outline: 2px solid #263f36;
+    outline-offset: 2px;
+}
+
 .selectedColor {
     min-width: 0;
     min-height: 532px;
@@ -119,7 +150,7 @@
     aspect-ratio: 2 / 1;
     margin-top: 20px;
     border-radius: 10px;
-    background: #f1f2ee;
+    background: var(--selected-color, #f1f2ee);
     content: "";
 }
 
