@@ -7,5 +7,11 @@ FactoryBot.define do
     base_ratio { 60 }
     sub_ratio { 30 }
     accent_ratio { 10 }
+
+    trait :ratios_55_30_15 do
+      base_ratio { 55 }
+      sub_ratio { 30 }
+      accent_ratio { 15 }
+    end
   end
 end
