@@ -7,6 +7,7 @@ RSpec.describe "GET /api/palettes", type: :request do
     light_tone = selected_color.tone
     light_orange_base = FactoryBot.create(:light_orange, :base_sample, tone: light_tone)
     light_orange_sub = FactoryBot.create(:light_orange, :sub_sample, tone: light_tone)
+    light_blue = FactoryBot.create(:color, :light_blue, tone: light_tone)
     dull_orange = FactoryBot.create(:color, :dull_orange)
     red = FactoryBot.create(:color)
     blue = FactoryBot.create(:color, :blue, tone: red.tone)
@@ -42,8 +43,8 @@ RSpec.describe "GET /api/palettes", type: :request do
 
     FactoryBot.create(
       :palette,
-      base_color: red,
-      sub_color: blue,
+      base_color: light_blue,
+      sub_color: red,
       accent_color: white
     )
 
@@ -66,6 +67,8 @@ RSpec.describe "GET /api/palettes", type: :request do
   end
 
   it "色が存在しても該当する配色がなければ空配列を返す" do
+    FactoryBot.create(:palette)
+
     get "/api/palettes", params: { color_id: selected_color.id }
 
     expect(response).to have_http_status(:ok)

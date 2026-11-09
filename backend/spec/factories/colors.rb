@@ -22,6 +22,12 @@ FactoryBot.define do
       association :tone, name: "ダル"
     end
 
+    trait :light_blue do
+      name { "ライトブルー" }
+      hex_code { "#A0BEE9" }
+      association :tone, name: "ライト"
+    end
+
     factory :light_orange do
       name { "ライトオレンジ" }
       hex_code { "#E9C4A0" }
