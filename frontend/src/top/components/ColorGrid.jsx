@@ -3,6 +3,26 @@ import tones from "../tones.json";
 import styles from "../App.module.css";
 
 const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:3000";
+const hueOrder = ["レッド", "オレンジ", "イエロー", "グリーン", "ブルー", "パープル"];
+const achromaticOrder = ["ホワイト", "グレー", "ブラック"];
+
+function orderColors(colors, displayOrder) {
+    const orderedColors = [];
+
+    for (const name of displayOrder) {
+        const color = colors.find((color) => color.name === name);
+
+        if (color) {
+            orderedColors.push(color);
+        }
+    }
+
+    const otherColors = colors.filter(
+        (color) => !displayOrder.includes(color.name)
+    );
+
+    return orderedColors.concat(otherColors);
+}
 
 function useFetchColors() {
     const [colors, setColors] = useState([]);
@@ -66,6 +86,7 @@ function ColorButtons({ colors, onSelectColor }) {
 export const ColorGrid = ({ onSelectColor }) => {
     const { colors, loading, error } = useFetchColors();
     const achromaticColors = colors.filter((color) => color.tone === null);
+    const orderedAchromaticColors = orderColors(achromaticColors, achromaticOrder);
 
     return (
         <div className={styles.toneGrid}>
@@ -82,19 +103,21 @@ export const ColorGrid = ({ onSelectColor }) => {
                 const colorsInTone = colors.filter(
                     (color) => color.tone?.name === tone.name
                 );
+                const namesInOrder = hueOrder.map((hue) => `${tone.name}${hue}`);
+                const orderedColorsInTone = orderColors(colorsInTone, namesInOrder);
 
                 return (
                     <fieldset key={tone.name} className={styles.toneCard}>
                         <legend>{tone.name}</legend>
                         <p>{tone.description}</p>
-                        <ColorButtons colors={colorsInTone} onSelectColor={onSelectColor} />
+                        <ColorButtons colors={orderedColorsInTone} onSelectColor={onSelectColor} />
                     </fieldset>
                 );
             })}
 
             <fieldset className={styles.achromaticColors}>
                 <legend>無彩色</legend>
-                <ColorButtons colors={achromaticColors} onSelectColor={onSelectColor} />
+                <ColorButtons colors={orderedAchromaticColors} onSelectColor={onSelectColor} />
             </fieldset>
         </div>
     );
