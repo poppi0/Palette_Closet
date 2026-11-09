@@ -15,5 +15,31 @@ FactoryBot.define do
       hex_code { "#FFFFFF" }
       tone { nil }
     end
+
+    trait :dull_orange do
+      name { "ダルオレンジ" }
+      hex_code { "#8E775D" }
+      association :tone, name: "ダル"
+    end
+
+    trait :light_blue do
+      name { "ライトブルー" }
+      hex_code { "#A0BEE9" }
+      association :tone, name: "ライト"
+    end
+
+    factory :light_orange do
+      name { "ライトオレンジ" }
+      hex_code { "#E9C4A0" }
+      association :tone, name: "ライト"
+
+      trait :base_sample do
+        hex_code { "#E4C6A6" }
+      end
+
+      trait :sub_sample do
+        hex_code { "#E6CD8C" }
+      end
+    end
   end
 end
