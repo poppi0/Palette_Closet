@@ -10,5 +10,6 @@ Rails.application.config.middleware.insert_before 0, Rack::Cors do
         origins "http://localhost:5173", "https://palette-closet.onrender.com"
         resource "/api", headers: :any, methods: [ :get ]
         resource "/api/colors", headers: :any, methods: [ :get ]
+        resource "/api/palettes", headers: :any, methods: [ :get ]
     end
 end
