@@ -1,0 +1,60 @@
+.page {
+    box-sizing: border-box;
+    max-width: 1440px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 32px 48px;
+    background: #fff;
+    color: #242624;
+    font-family: Arial, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.page *,
+.page *::before,
+.page *::after {
+    box-sizing: border-box;
+}
+
+.header {
+    display: block;
+    margin: -32px -48px 28px;
+    padding: 24px 48px;
+    border-bottom: 1px solid #dedfdb;
+    color: #263e36;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.footer {
+    display: block;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #dedfdb;
+    color: #72746f;
+    font-size: 12px;
+}
+
+.page > h1 {
+    margin: 0 0 28px;
+    font-size: 30px;
+    line-height: 1.4;
+}
+
+@media (max-width: 1000px) {
+    .page {
+        padding: 24px;
+    }
+
+    .header {
+        margin: -24px -24px 24px;
+        padding: 24px;
+    }
+}
+
+@media (max-width: 600px) {
+    .page > h1 {
+        font-size: 26px;
+    }
+}
