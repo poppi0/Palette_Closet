@@ -69,15 +69,15 @@ test('URLの色IDで取得し、届いた順に配色の3色と比率を表示�
 
   const firstCard = within(links[0])
 
-  const base = within(firstCard.getByRole('group', { name: 'ベース' }))
+  const base = within(firstCard.getByRole('group', { name: 'Base' }))
   expect(base.getByText('ライトオレンジ')).toBeVisible()
   expect(base.getByText('55%')).toBeVisible()
 
-  const sub = within(firstCard.getByRole('group', { name: 'サブ' }))
+  const sub = within(firstCard.getByRole('group', { name: 'Sub' }))
   expect(sub.getByText('ライトオレンジ')).toBeVisible()
   expect(sub.getByText('30%')).toBeVisible()
 
-  const accent = within(firstCard.getByRole('group', { name: 'アクセント' }))
+  const accent = within(firstCard.getByRole('group', { name: 'Accent' }))
   expect(accent.getByText('ダルオレンジ')).toBeVisible()
   expect(accent.getByText('15%')).toBeVisible()
 })
