@@ -1,0 +1,36 @@
+/* TOPのパネルと共通の見た目を先にまとめる */
+.status {
+    padding: 28px;
+    border: 1px solid #e0e1dc;
+    border-radius: 14px;
+    color: #53645d;
+}
+
+/* 一覧固有の配置はここから */
+.list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.item {
+    display: flex;
+    min-width: 0;
+}
+
+@media (max-width: 1000px) {
+    .list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .list {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 16px;
+    }
+}
