@@ -1,10 +1,5 @@
+/* TOPと共通の色・枠・文字を先にまとめる */
 .card {
-    display: grid;
-    flex: 1;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    grid-template-rows: auto auto 1fr auto;
-    min-width: 0;
-    padding: 24px;
     border: 1px solid #e0e1dc;
     border-radius: 14px;
     background: #fff;
@@ -16,14 +11,44 @@
     color: #242624;
 }
 
-.card:hover {
-    border-color: #82978c;
-    box-shadow: 0 4px 16px rgb(38 63 54 / 8%);
-}
-
 .card:focus-visible {
     outline: 2px solid #263f36;
     outline-offset: 4px;
+}
+
+.colorGroup > p {
+    margin: 0;
+    overflow-wrap: anywhere;
+}
+
+.colorGroup > p:first-of-type {
+    color: #72746f;
+    font-size: 12px;
+}
+
+.colorGroup > p:nth-of-type(2) {
+    font-size: 12px;
+}
+
+.colorGroup > p:last-child {
+    color: #202221;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+}
+
+/* カード固有の配置・装飾はここから */
+.card {
+    display: grid;
+    flex: 1;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: auto auto 1fr auto;
+    min-width: 0;
+    padding: 24px;
+}
+
+.card:hover {
+    border-color: #82978c;
+    box-shadow: 0 4px 16px rgb(38 63 54 / 8%);
 }
 
 .cardNumber {
@@ -57,26 +82,6 @@
     height: 90px;
     overflow: hidden;
     border: 1px solid #e0e1dc;
-}
-
-.colorGroup > p {
-    margin: 0;
-    overflow-wrap: anywhere;
-}
-
-.colorGroup > p:first-of-type {
-    color: #72746f;
-    font-size: 11px;
-}
-
-.colorGroup > p:nth-of-type(2) {
-    font-size: 12px;
-}
-
-.colorGroup > p:last-child {
-    color: #263f36;
-    font-weight: 700;
-    font-variant-numeric: tabular-nums;
 }
 
 @media (max-width: 600px) {

@@ -1,9 +1,10 @@
+/* TOPと共通の設定を先にまとめる */
 .page {
     box-sizing: border-box;
-    max-width: 1440px;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     margin: 0 auto;
-    padding: 32px 48px;
     background: #fff;
     color: #242624;
     font-family: Arial, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
@@ -17,44 +18,72 @@
     box-sizing: border-box;
 }
 
+.page p {
+    margin: 0;
+}
+
 .header {
-    display: block;
-    margin: -32px -48px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
     padding: 24px 48px;
     border-bottom: 1px solid #dedfdb;
-    color: #263e36;
+    color: #53645d;
+}
+
+.logo {
+    color: #202221;
     font-size: 24px;
     font-weight: 700;
+    line-height: 1.3;
+}
+
+.main {
+    flex: 1;
+    padding: 24px 48px;
+}
+
+.main h1 {
+    margin: 0 0 8px;
+    font-size: 30px;
+    line-height: 1.4;
 }
 
 .footer {
-    display: block;
-    margin-top: 40px;
-    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    margin: 0 48px;
+    padding: 20px 0;
     border-top: 1px solid #dedfdb;
     color: #72746f;
     font-size: 12px;
 }
 
-.page > h1 {
-    margin: 0 0 28px;
-    font-size: 30px;
-    line-height: 1.4;
-}
-
 @media (max-width: 1000px) {
-    .page {
-        padding: 24px;
+    .header,
+    .main {
+        padding-right: 24px;
+        padding-left: 24px;
     }
 
-    .header {
-        margin: -24px -24px 24px;
-        padding: 24px;
+    .footer {
+        margin-right: 24px;
+        margin-left: 24px;
     }
 }
 
 @media (max-width: 600px) {
-    .page > h1 {
-        font-size: 26px;
+    .header,
+    .footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
     }
+}
+
+/* 配色一覧固有の設定はここから */
+.main h1 {
+    margin-bottom: 28px;
 }

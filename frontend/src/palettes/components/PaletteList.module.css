@@ -1,3 +1,12 @@
+/* TOPのパネルと共通の見た目を先にまとめる */
+.status {
+    padding: 28px;
+    border: 1px solid #e0e1dc;
+    border-radius: 14px;
+    color: #53645d;
+}
+
+/* 一覧固有の配置はここから */
 .list {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -10,13 +19,6 @@
 .item {
     display: flex;
     min-width: 0;
-}
-
-.status {
-    padding: 28px;
-    border: 1px solid #e0e1dc;
-    border-radius: 12px;
-    color: #53645d;
 }
 
 @media (max-width: 1000px) {

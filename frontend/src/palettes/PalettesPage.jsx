@@ -7,17 +7,19 @@ export const PalettesPage = () => {
     const colorId = searchParams.get("color_id") ?? "";
 
     return (
-        <main className={styles.page}>
+        <div className={styles.page}>
             <header className={styles.header}>
-                Palette Closet
+                <p className={styles.logo}>Palette Closet</p>
             </header>
 
-            <h1>配色一覧</h1>
-            <PaletteList key={colorId} colorId={colorId} />
+            <main className={styles.main}>
+                <h1>配色一覧</h1>
+                <PaletteList key={colorId} colorId={colorId} />
+            </main>
 
             <footer className={styles.footer}>
                 色の見え方は、服の素材や照明で変わります。
             </footer>
-        </main>
+        </div>
     );
 };
