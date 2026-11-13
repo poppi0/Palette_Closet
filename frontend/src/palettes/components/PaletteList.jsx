@@ -60,7 +60,11 @@ export const PaletteList = ({ colorId }) => {
             <ul className={styles.list} aria-label="配色一覧">
                 {palettes.map((palette, index) => (
                     <li key={palette.id} className={styles.item}>
-                        <PaletteCard palette={palette} number={index + 1} />
+                        <PaletteCard
+                            palette={palette}
+                            number={index + 1}
+                            colorId={colorId}
+                        />
                     </li>
                 ))}
             </ul>

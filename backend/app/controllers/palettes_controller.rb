@@ -52,9 +52,40 @@ class PalettesController < ApplicationController
     render json: palette_data
   end
 
+  def show
+    palette_id = show_params[:id]
+
+    if palette_id.is_a?(String) && palette_id.match?(/\A[1-9][0-9]*\z/)
+      palette = Palette.includes(:base_color, :sub_color, :accent_color)
+                       .find_by(id: palette_id)
+    else
+      return head :bad_request
+    end
+
+    if palette.nil?
+      return head :not_found
+    end
+
+    palette_data = {
+      id: palette.id,
+      base_color: palette.base_color.as_json(only: [ :name, :hex_code ]),
+      base_ratio: palette.base_ratio,
+      sub_color: palette.sub_color.as_json(only: [ :name, :hex_code ]),
+      sub_ratio: palette.sub_ratio,
+      accent_color: palette.accent_color.as_json(only: [ :name, :hex_code ]),
+      accent_ratio: palette.accent_ratio
+    }
+
+    render json: palette_data
+  end
+
   private
 
   def search_params
     params.permit(:color_id)
+  end
+
+  def show_params
+    params.permit(:id)
   end
 end

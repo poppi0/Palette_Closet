@@ -1,9 +1,12 @@
 import { Link } from "react-router";
 import styles from "./PaletteCard.module.css";
 
-export const PaletteCard = ({ palette, number }) => {
+export const PaletteCard = ({ palette, number, colorId }) => {
     return (
-        <Link to={`/palettes/${palette.id}`} className={styles.card}>
+        <Link
+            to={`/palettes/${palette.id}?color_id=${encodeURIComponent(colorId)}`}
+            className={styles.card}
+        >
             <span className={styles.cardNumber}>
                 PALETTE {String(number).padStart(2, "0")}
             </span>
