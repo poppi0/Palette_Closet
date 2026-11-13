@@ -9,6 +9,24 @@ AllCops:
   Exclude:
     - "coverage/**/*"
 
+Metrics/MethodLength:
+  Enabled: true
+  Include:
+    - "app/controllers/**/*.rb"
+    - "app/models/**/*.rb"
+
+Metrics/ClassLength:
+  Enabled: true
+  Include:
+    - "app/controllers/**/*.rb"
+    - "app/models/**/*.rb"
+
+Metrics/AbcSize:
+  Enabled: true
+  Include:
+    - "app/controllers/**/*.rb"
+    - "app/models/**/*.rb"
+
 # Overwrite or add rules to create your own house style
 #
 # # Use `[a, [b, c]]` not `[ a, [ b, c ] ]`
