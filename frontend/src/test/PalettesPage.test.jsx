@@ -65,7 +65,10 @@ test('URLの色IDで取得し、届いた順に配色の3色と比率を表示�
   expect(url.searchParams.get('color_id')).toBe('12')
 
   expect(links.map((link) => link.getAttribute('href')))
-    .toEqual(['/palettes/42', '/palettes/7'])
+    .toEqual([
+      '/palettes/42?color_id=12',
+      '/palettes/7?color_id=12',
+    ])
 
   const firstCard = within(links[0])
 
@@ -92,6 +95,7 @@ test('配色を選ぶと、その配色IDの詳細へ移動する', async () => 
   await user.click(firstLink)
 
   expect(router.state.location.pathname).toBe('/palettes/42')
+  expect(router.state.location.search).toBe('?color_id=12')
 })
 
 test('配色を取得している間は読み込み中と表示する', () => {
