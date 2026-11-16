@@ -17,7 +17,7 @@ export const App = () => {
                 <p className={styles.introduction}>12種類のトーンを見比べて、服に近いベース色を選んでください。</p>
 
                 <div className={styles.colorSelection}>
-                    <ColorGrid onSelectColor={setSelectedColor} />
+                    <ColorGrid selectedColor={selectedColor} onSelectColor={setSelectedColor} />
                     <SelectedColorPanel selectedColor={selectedColor} />
                 </div>
             </main>

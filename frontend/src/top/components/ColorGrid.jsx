@@ -66,7 +66,7 @@ function useFetchColors() {
     return { colors, loading, error };
 }
 
-function ColorButtons({ colors, onSelectColor }) {
+function ColorButtons({ colors, selectedColor, onSelectColor }) {
     return (
         <div className={styles.colorList}>
             {colors.map((color) => (
@@ -76,6 +76,7 @@ function ColorButtons({ colors, onSelectColor }) {
                     className={styles.colorButton}
                     style={{ backgroundColor: color.hex_code }}
                     aria-label={color.name}
+                    aria-pressed={selectedColor?.id === color.id}
                     onClick={() => onSelectColor(color)}
                 />
             ))}
@@ -83,7 +84,7 @@ function ColorButtons({ colors, onSelectColor }) {
     );
 }
 
-export const ColorGrid = ({ onSelectColor }) => {
+export const ColorGrid = ({ selectedColor, onSelectColor }) => {
     const { colors, loading, error } = useFetchColors();
     const achromaticColors = colors.filter((color) => color.tone === null);
     const orderedAchromaticColors = orderColors(achromaticColors, achromaticOrder);
@@ -110,14 +111,14 @@ export const ColorGrid = ({ onSelectColor }) => {
                     <fieldset key={tone.name} className={styles.toneCard}>
                         <legend>{tone.name}</legend>
                         <p>{tone.description}</p>
-                        <ColorButtons colors={orderedColorsInTone} onSelectColor={onSelectColor} />
+                        <ColorButtons colors={orderedColorsInTone} selectedColor={selectedColor} onSelectColor={onSelectColor} />
                     </fieldset>
                 );
             })}
 
             <fieldset className={styles.achromaticColors}>
                 <legend>無彩色</legend>
-                <ColorButtons colors={orderedAchromaticColors} onSelectColor={onSelectColor} />
+                <ColorButtons colors={orderedAchromaticColors} selectedColor={selectedColor} onSelectColor={onSelectColor} />
             </fieldset>
         </div>
     );
