@@ -41,6 +41,14 @@
 }
 
 /* 配色一覧固有の設定はここから */
-.main h1 {
+.pageHeading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
     margin-bottom: 1.75rem;
+}
+
+.pageHeading h1 {
+    margin: 0;
 }
