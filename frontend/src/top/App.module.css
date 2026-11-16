@@ -12,7 +12,7 @@
     background: #fff;
     color: #242624;
     font-family: Arial, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.6;
 }
 
@@ -28,19 +28,19 @@
 
 .main {
     flex: 1;
-    padding: 24px 48px;
+    padding: 1.5rem 3rem;
 }
 
 .main h1 {
-    margin: 0 0 8px;
-    font-size: 30px;
+    margin: 0 0 0.5rem;
+    font-size: 1.875rem;
     line-height: 1.4;
 }
 
 @media (max-width: 1000px) {
     .main {
-        padding-right: 24px;
-        padding-left: 24px;
+        padding-right: 1.5rem;
+        padding-left: 1.5rem;
     }
 }
 
@@ -53,14 +53,14 @@
     display: grid;
     grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
     align-items: start;
-    gap: 36px;
-    margin-top: 24px;
+    gap: 2.25rem;
+    margin-top: 1.5rem;
 }
 
 .toneGrid {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 12px;
+    gap: 0.75rem;
 }
 
 .toneCard,
@@ -69,7 +69,7 @@
     min-width: 0;
     min-height: 120px;
     margin: 0;
-    padding: 32px 12px 16px;
+    padding: 2rem 0.75rem 1rem;
     border: 1px solid #e0e1dc;
     border-radius: 10px;
 }
@@ -80,12 +80,12 @@
     top: 10px;
     left: 12px;
     padding: 0;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 .toneCard p {
     color: #72746f;
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 .achromaticColors {
@@ -100,8 +100,8 @@
 .colorList {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
-    margin-top: 12px;
+    gap: 0.375rem;
+    margin-top: 0.75rem;
 }
 
 .achromaticColors .colorList {
@@ -127,47 +127,47 @@
 .selectedColor {
     min-width: 0;
     min-height: 532px;
-    margin-top: -66px;
-    padding: 28px;
+    margin-top: -4.125rem;
+    padding: 1.75rem;
     border: 1px solid #e0e1dc;
     border-radius: 14px;
 }
 
 .selectedColor h2 {
-    margin: 0 0 20px;
+    margin: 0 0 1.25rem;
     color: #53645d;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .selectedColor h2::after {
     display: block;
     aspect-ratio: 2 / 1;
-    margin-top: 20px;
+    margin-top: 1.25rem;
     border-radius: 10px;
     background: var(--selected-color, #f1f2ee);
     content: "";
 }
 
 .colorName {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
 .selectedColor .description {
-    margin-top: 12px;
+    margin-top: 0.75rem;
     color: #72746f;
 }
 
 .searchButton {
     width: 100%;
-    margin-top: 28px;
-    padding: 14px 20px;
+    margin-top: 1.75rem;
+    padding: 0.875rem 1.25rem;
     border: 0;
     border-radius: 10px;
     background: #202221;
     color: #fff;
     font: inherit;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 700;
     text-align: left;
 }
@@ -178,9 +178,9 @@
 }
 
 .selectedColor .steps {
-    margin-top: 30px;
+    margin-top: 1.875rem;
     color: #72746f;
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 @media (max-width: 1000px) {
@@ -198,7 +198,7 @@
 @media (max-width: 600px) {
     /* 固定欄に本文の最後が隠れないよう余白を確保する */
     .page {
-        padding-bottom: calc(180px + env(safe-area-inset-bottom, 0px));
+        padding-bottom: calc(11.25rem + env(safe-area-inset-bottom, 0px));
     }
 
     .toneGrid {
@@ -213,8 +213,8 @@
         z-index: 10;
         min-height: 0;
         margin: 0;
-        padding: 16px 24px;
-        padding-bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+        padding: 1rem 1.5rem;
+        padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
         border: 0;
         border-top: 1px solid #e0e1dc;
         border-radius: 0;
@@ -222,8 +222,8 @@
     }
 
     .selectedColor h2 {
-        margin: 0 0 4px;
-        font-size: 14px;
+        margin: 0 0 0.25rem;
+        font-size: 0.875rem;
     }
 
     .selectedColor h2::after,
@@ -233,10 +233,10 @@
     }
 
     .colorName {
-        font-size: 16px;
+        font-size: 1rem;
     }
 
     .searchButton {
-        margin-top: 12px;
+        margin-top: 0.75rem;
     }
 }

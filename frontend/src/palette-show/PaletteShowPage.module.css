@@ -8,7 +8,7 @@
     background: #fff;
     color: #242624;
     font-family: Arial, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.6;
 }
 
@@ -24,18 +24,18 @@
 
 .main {
     flex: 1;
-    padding: 24px 48px;
+    padding: 1.5rem 3rem;
 }
 
 .main h1 {
-    margin: 0 0 8px;
-    font-size: 30px;
+    margin: 0 0 0.5rem;
+    font-size: 1.875rem;
     line-height: 1.4;
 }
 
 .ratioPanel,
 .status {
-    padding: 28px;
+    padding: 1.75rem;
     border: 1px solid #e0e1dc;
     border-radius: 14px;
 }
@@ -43,16 +43,16 @@
 .ratioPanel h2 {
     margin: 0;
     color: #53645d;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .backLink {
     display: block;
-    padding: 14px 20px;
+    padding: 0.875rem 1.25rem;
     border-radius: 10px;
     background: #202221;
     color: #fff;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 700;
     text-decoration: none;
 }
@@ -72,15 +72,15 @@
 
 @media (max-width: 1000px) {
     .main {
-        padding-right: 24px;
-        padding-left: 24px;
+        padding-right: 1.5rem;
+        padding-left: 1.5rem;
     }
 }
 
 /* 配色詳細固有の配置・装飾はここから */
 .paletteNames {
     color: #72746f;
-    font-size: 16px;
+    font-size: 1rem;
     overflow-wrap: anywhere;
 }
 
@@ -88,8 +88,8 @@
     display: grid;
     grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
     align-items: center;
-    gap: 36px;
-    margin-top: 32px;
+    gap: 2.25rem;
+    margin-top: 2rem;
 }
 
 .paletteBar {
@@ -107,27 +107,27 @@
 .detailsColumn {
     display: grid;
     min-width: 0;
-    gap: 20px;
+    gap: 1.25rem;
 }
 
 .legend {
     display: grid;
-    gap: 24px;
-    margin-top: 28px;
+    gap: 1.5rem;
+    margin-top: 1.75rem;
 }
 
 .colorGroup {
     display: grid;
     grid-template-columns: 52px minmax(0, 1fr) auto;
     align-items: center;
-    gap: 12px;
+    gap: 0.75rem;
     min-width: 0;
 }
 
 .colorGroup h3 {
     margin: 0;
     color: #72746f;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-weight: 400;
 }
 
@@ -137,15 +137,15 @@
 
 .ratio {
     color: #202221;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     font-variant-numeric: tabular-nums;
 }
 
 .ratioPanel .description {
-    margin-top: 32px;
+    margin-top: 2rem;
     color: #72746f;
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 .detailsColumn .backLink,
@@ -157,13 +157,13 @@
 
 .errorContent {
     display: grid;
-    gap: 20px;
+    gap: 1.25rem;
 }
 
 @media (max-width: 1000px) {
     .balanceLayout {
         grid-template-columns: minmax(0, 1fr);
-        gap: 24px;
+        gap: 1.5rem;
     }
 }
 
@@ -174,11 +174,11 @@
     }
 
     .ratioPanel {
-        padding: 20px;
+        padding: 1.25rem;
     }
 
     .colorGroup {
-        gap: 8px;
+        gap: 0.5rem;
     }
 
     .detailsColumn .backLink {
