@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Header } from "../shared/Header.jsx";
 import styles from "./App.module.css";
 import { ColorGrid } from "./components/ColorGrid.jsx";
 import { SelectedColorPanel } from "./components/SelectedColorPanel.jsx";
@@ -8,10 +9,7 @@ export const App = () => {
 
     return (
         <div className={styles.page}>
-            <header className={styles.header}>
-                <p className={styles.logo}>Palette Closet</p>
-                <p>色から配色を探す</p>
-            </header>
+            <Header />
 
             <main className={styles.main}>
                 <h1>服に近い色を選ぶ</h1>

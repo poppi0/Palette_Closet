@@ -1,4 +1,5 @@
 import { useSearchParams } from "react-router";
+import { Header } from "../shared/Header.jsx";
 import { PaletteList } from "./components/PaletteList.jsx";
 import styles from "./PalettesPage.module.css";
 
@@ -8,9 +9,7 @@ export const PalettesPage = () => {
 
     return (
         <div className={styles.page}>
-            <header className={styles.header}>
-                <p className={styles.logo}>Palette Closet</p>
-            </header>
+            <Header />
 
             <main className={styles.main}>
                 <h1>配色一覧</h1>

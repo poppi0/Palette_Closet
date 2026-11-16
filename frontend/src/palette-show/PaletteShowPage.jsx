@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useParams, useSearchParams } from "react-router";
+import { Header } from "../shared/Header.jsx";
 import styles from "./PaletteShowPage.module.css";
 
 const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:3000";
@@ -157,10 +158,7 @@ export const PaletteShowPage = () => {
 
     return (
         <div className={styles.page}>
-            <header className={styles.header}>
-                <p className={styles.logo}>Palette Closet</p>
-                <p>色から配色を探す</p>
-            </header>
+            <Header />
 
             <main className={styles.main}>{content}</main>
 
