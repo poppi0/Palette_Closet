@@ -376,21 +376,6 @@
       "tone_name": "ディープ"
     },
     {
-      "name": "ビビッドオレンジ",
-      "hex_code": "#F08437",
-      "tone_name": "ビビッド"
-    },
-    {
-      "name": "ダルグリーン",
-      "hex_code": "#00A040",
-      "tone_name": "ダル"
-    },
-    {
-      "name": "ビビッドレッド",
-      "hex_code": "#E6191C",
-      "tone_name": "ビビッド"
-    },
-    {
       "name": "ライトグレイッシュパープル",
       "hex_code": "#C9C2E0",
       "tone_name": "ライトグレイッシュ"
@@ -464,21 +449,6 @@
       "name": "ストロングレッド",
       "hex_code": "#D7000F",
       "tone_name": "ストロング"
-    },
-    {
-      "name": "ダルグリーン",
-      "hex_code": "#13AE67",
-      "tone_name": "ダル"
-    },
-    {
-      "name": "ビビッドレッド",
-      "hex_code": "#E8382F",
-      "tone_name": "ビビッド"
-    },
-    {
-      "name": "ビビッドイエロー",
-      "hex_code": "#FFEB27",
-      "tone_name": "ビビッド"
     },
     {
       "name": "ペールブルー",
@@ -939,11 +909,6 @@
       "name": "グレイッシュオレンジ",
       "hex_code": "#B19962",
       "tone_name": "グレイッシュ"
-    },
-    {
-      "name": "ビビッドオレンジ",
-      "hex_code": "#F18D00",
-      "tone_name": "ビビッド"
     },
     {
       "name": "ストロングイエロー",
@@ -1531,11 +1496,6 @@
       "tone_name": "ストロング"
     },
     {
-      "name": "ビビッドパープル",
-      "hex_code": "#B117EE",
-      "tone_name": "ビビッド"
-    },
-    {
       "name": "ダークイエロー",
       "hex_code": "#4E4D1E",
       "tone_name": "ダーク"
@@ -1601,11 +1561,6 @@
       "tone_name": "ダーク"
     },
     {
-      "name": "ストロングパープル",
-      "hex_code": "#9825C7",
-      "tone_name": "ストロング"
-    },
-    {
       "name": "ビビッドグリーン",
       "hex_code": "#11F542",
       "tone_name": "ビビッド"
@@ -1624,6 +1579,36 @@
       "name": "ブライトパープル",
       "hex_code": "#C654F3",
       "tone_name": "ブライト"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#13AE67",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ビビッドオレンジ",
+      "hex_code": "#F08437",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ダルグリーン",
+      "hex_code": "#00A040",
+      "tone_name": "ダル"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E6191C",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドレッド",
+      "hex_code": "#E8382F",
+      "tone_name": "ビビッド"
+    },
+    {
+      "name": "ビビッドオレンジ",
+      "hex_code": "#F18D00",
+      "tone_name": "ビビッド"
     }
   ],
   "palettes": [
@@ -1853,15 +1838,6 @@
       "accent_ratio": 10
     },
     {
-      "source_id": "R026",
-      "base_hex": "#F08437",
-      "base_ratio": 65,
-      "sub_hex": "#00A040",
-      "sub_ratio": 25,
-      "accent_hex": "#E6191C",
-      "accent_ratio": 10
-    },
-    {
       "source_id": "R027",
       "base_hex": "#C9C2E0",
       "base_ratio": 55,
@@ -1905,15 +1881,6 @@
       "sub_ratio": 25,
       "accent_hex": "#D7000F",
       "accent_ratio": 5
-    },
-    {
-      "source_id": "R032",
-      "base_hex": "#13AE67",
-      "base_ratio": 65,
-      "sub_hex": "#E8382F",
-      "sub_ratio": 25,
-      "accent_hex": "#FFEB27",
-      "accent_ratio": 10
     },
     {
       "source_id": "R033",
@@ -2192,15 +2159,6 @@
       "sub_hex": "#7C2E1E",
       "sub_ratio": 30,
       "accent_hex": "#B19962",
-      "accent_ratio": 10
-    },
-    {
-      "source_id": "R064",
-      "base_hex": "#F18D00",
-      "base_ratio": 65,
-      "sub_hex": "#C2CE00",
-      "sub_ratio": 25,
-      "accent_hex": "#601986",
       "accent_ratio": 10
     },
     {
@@ -2591,15 +2549,6 @@
       "accent_ratio": 10
     },
     {
-      "source_id": "N016",
-      "base_hex": "#2DBF4C",
-      "base_ratio": 70,
-      "sub_hex": "#962AC2",
-      "sub_ratio": 25,
-      "accent_hex": "#B117EE",
-      "accent_ratio": 5
-    },
-    {
       "source_id": "N017",
       "base_hex": "#604461",
       "base_ratio": 60,
@@ -2706,15 +2655,6 @@
       "sub_ratio": 30,
       "accent_hex": "#601986",
       "accent_ratio": 10
-    },
-    {
-      "source_id": "N029",
-      "base_hex": "#C25CEB",
-      "base_ratio": 70,
-      "sub_hex": "#9825C7",
-      "sub_ratio": 25,
-      "accent_hex": "#11F542",
-      "accent_ratio": 5
     },
     {
       "source_id": "N030",
@@ -2996,15 +2936,6 @@
       "accent_ratio": 10
     },
     {
-      "source_id": "N061",
-      "base_hex": "#B117EE",
-      "base_ratio": 55,
-      "sub_hex": "#C459EE",
-      "sub_ratio": 30,
-      "accent_hex": "#601986",
-      "accent_ratio": 15
-    },
-    {
       "source_id": "N062",
       "base_hex": "#9E88A6",
       "base_ratio": 70,
@@ -3158,15 +3089,6 @@
       "accent_ratio": 10
     },
     {
-      "source_id": "N079",
-      "base_hex": "#601986",
-      "base_ratio": 70,
-      "sub_hex": "#9825C7",
-      "sub_ratio": 25,
-      "accent_hex": "#17EE46",
-      "accent_ratio": 5
-    },
-    {
       "source_id": "N080",
       "base_hex": "#150201",
       "base_ratio": 70,
@@ -3200,15 +3122,6 @@
       "sub_hex": "#B7CDDA",
       "sub_ratio": 30,
       "accent_hex": "#CB7F69",
-      "accent_ratio": 10
-    },
-    {
-      "source_id": "N084",
-      "base_hex": "#00B4B6",
-      "base_ratio": 65,
-      "sub_hex": "#EB5A09",
-      "sub_ratio": 25,
-      "accent_hex": "#601986",
       "accent_ratio": 10
     },
     {
@@ -3290,15 +3203,6 @@
       "sub_hex": "#885517",
       "sub_ratio": 30,
       "accent_hex": "#4D4C1F",
-      "accent_ratio": 10
-    },
-    {
-      "source_id": "N094",
-      "base_hex": "#A660A3",
-      "base_ratio": 65,
-      "sub_hex": "#C25CEB",
-      "sub_ratio": 25,
-      "accent_hex": "#1C67E9",
       "accent_ratio": 10
     },
     {
@@ -3464,15 +3368,6 @@
       "accent_ratio": 10
     },
     {
-      "source_id": "N113",
-      "base_hex": "#504E1C",
-      "base_ratio": 60,
-      "sub_hex": "#8B272B",
-      "sub_ratio": 30,
-      "accent_hex": "#5FC1C7",
-      "accent_ratio": 10
-    },
-    {
       "source_id": "N114",
       "base_hex": "#2A4743",
       "base_ratio": 70,
@@ -3518,15 +3413,6 @@
       "accent_ratio": 5
     },
     {
-      "source_id": "N119",
-      "base_hex": "#962AC2",
-      "base_ratio": 55,
-      "sub_hex": "#C459EE",
-      "sub_ratio": 30,
-      "accent_hex": "#604461",
-      "accent_ratio": 15
-    },
-    {
       "source_id": "N120",
       "base_hex": "#150201",
       "base_ratio": 70,
@@ -3534,6 +3420,3957 @@
       "sub_ratio": 25,
       "accent_hex": "#B411F5",
       "accent_ratio": 5
+    },
+    {
+      "source_id": "G001",
+      "base_hex": "#F5F3F2",
+      "base_ratio": 60,
+      "sub_hex": "#34485E",
+      "sub_ratio": 30,
+      "accent_hex": "#C03619",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G002",
+      "base_hex": "#E4C6A6",
+      "base_ratio": 55,
+      "sub_hex": "#4B6251",
+      "sub_ratio": 30,
+      "accent_hex": "#F5F3F2",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G003",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 60,
+      "sub_hex": "#F5E8CF",
+      "sub_ratio": 30,
+      "accent_hex": "#004C86",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G004",
+      "base_hex": "#B7CDDA",
+      "base_ratio": 65,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 25,
+      "accent_hex": "#8B272B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G005",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 65,
+      "sub_hex": "#003740",
+      "sub_ratio": 25,
+      "accent_hex": "#D1AE15",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G006",
+      "base_hex": "#957E80",
+      "base_ratio": 60,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 30,
+      "accent_hex": "#F5F3F2",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G007",
+      "base_hex": "#B9CDBF",
+      "base_ratio": 60,
+      "sub_hex": "#6A4928",
+      "sub_ratio": 30,
+      "accent_hex": "#F7F3EC",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G008",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 60,
+      "sub_hex": "#F5F3F2",
+      "sub_ratio": 30,
+      "accent_hex": "#63676B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G009",
+      "base_hex": "#EAE4D1",
+      "base_ratio": 70,
+      "sub_hex": "#4F85A6",
+      "sub_ratio": 25,
+      "accent_hex": "#E94709",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G010",
+      "base_hex": "#6E6457",
+      "base_ratio": 55,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 30,
+      "accent_hex": "#F6B7AA",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G011",
+      "base_hex": "#8E775D",
+      "base_ratio": 60,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 30,
+      "accent_hex": "#2A4743",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G012",
+      "base_hex": "#6C8650",
+      "base_ratio": 60,
+      "sub_hex": "#DCD5C8",
+      "sub_ratio": 30,
+      "accent_hex": "#7C2E1E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G013",
+      "base_hex": "#C1A37D",
+      "base_ratio": 55,
+      "sub_hex": "#34485E",
+      "sub_ratio": 30,
+      "accent_hex": "#EEE2D3",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G014",
+      "base_hex": "#A2997F",
+      "base_ratio": 65,
+      "sub_hex": "#462E2E",
+      "sub_ratio": 25,
+      "accent_hex": "#9EC3BC",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G015",
+      "base_hex": "#AA998A",
+      "base_ratio": 60,
+      "sub_hex": "#567947",
+      "sub_ratio": 30,
+      "accent_hex": "#F8ECBA",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G016",
+      "base_hex": "#4B6251",
+      "base_ratio": 60,
+      "sub_hex": "#F3DEB9",
+      "sub_ratio": 30,
+      "accent_hex": "#CB7F69",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G017",
+      "base_hex": "#AD722F",
+      "base_ratio": 55,
+      "sub_hex": "#ACB0A8",
+      "sub_ratio": 30,
+      "accent_hex": "#003F67",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G018",
+      "base_hex": "#B19962",
+      "base_ratio": 65,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#FCE9ED",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G019",
+      "base_hex": "#6A4928",
+      "base_ratio": 60,
+      "sub_hex": "#9EC3BC",
+      "sub_ratio": 30,
+      "accent_hex": "#E6CD8C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G020",
+      "base_hex": "#5F5E45",
+      "base_ratio": 55,
+      "sub_hex": "#E4AF9B",
+      "sub_ratio": 30,
+      "accent_hex": "#411C50",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G021",
+      "base_hex": "#34485E",
+      "base_ratio": 65,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 25,
+      "accent_hex": "#E99BC1",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G022",
+      "base_hex": "#76A1B8",
+      "base_ratio": 60,
+      "sub_hex": "#F5F3F2",
+      "sub_ratio": 30,
+      "accent_hex": "#6A4928",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G023",
+      "base_hex": "#4977BC",
+      "base_ratio": 65,
+      "sub_hex": "#DCD5C8",
+      "sub_ratio": 25,
+      "accent_hex": "#CFAA2A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G024",
+      "base_hex": "#003F67",
+      "base_ratio": 60,
+      "sub_hex": "#E6C5CF",
+      "sub_ratio": 30,
+      "accent_hex": "#C1A37D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G025",
+      "base_hex": "#3C7D9B",
+      "base_ratio": 60,
+      "sub_hex": "#EAE4D1",
+      "sub_ratio": 30,
+      "accent_hex": "#A87570",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G026",
+      "base_hex": "#B7CDDA",
+      "base_ratio": 65,
+      "sub_hex": "#4B6251",
+      "sub_ratio": 25,
+      "accent_hex": "#D5A6E9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G027",
+      "base_hex": "#1D4763",
+      "base_ratio": 70,
+      "sub_hex": "#D9D8CE",
+      "sub_ratio": 25,
+      "accent_hex": "#F49C2D",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G028",
+      "base_hex": "#8AB0BC",
+      "base_ratio": 60,
+      "sub_hex": "#462E2E",
+      "sub_ratio": 30,
+      "accent_hex": "#F5E8CF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G029",
+      "base_hex": "#4F85A6",
+      "base_ratio": 55,
+      "sub_hex": "#BFC9BD",
+      "sub_ratio": 30,
+      "accent_hex": "#7F5072",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G030",
+      "base_hex": "#254678",
+      "base_ratio": 65,
+      "sub_hex": "#C39C89",
+      "sub_ratio": 25,
+      "accent_hex": "#D7D486",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G031",
+      "base_hex": "#D3E9D0",
+      "base_ratio": 60,
+      "sub_hex": "#34485E",
+      "sub_ratio": 30,
+      "accent_hex": "#E4C6A6",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G032",
+      "base_hex": "#669B76",
+      "base_ratio": 60,
+      "sub_hex": "#F5F3F2",
+      "sub_ratio": 30,
+      "accent_hex": "#604461",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G033",
+      "base_hex": "#9EC3BC",
+      "base_ratio": 65,
+      "sub_hex": "#C1A37D",
+      "sub_ratio": 25,
+      "accent_hex": "#494544",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G034",
+      "base_hex": "#4B6251",
+      "base_ratio": 65,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 25,
+      "accent_hex": "#D7D486",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G035",
+      "base_hex": "#5B9F8A",
+      "base_ratio": 60,
+      "sub_hex": "#DCD5C8",
+      "sub_ratio": 30,
+      "accent_hex": "#8B272B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G036",
+      "base_hex": "#6C8650",
+      "base_ratio": 55,
+      "sub_hex": "#C9C2E0",
+      "sub_ratio": 30,
+      "accent_hex": "#6E6457",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G037",
+      "base_hex": "#2A4743",
+      "base_ratio": 65,
+      "sub_hex": "#F3DEB9",
+      "sub_ratio": 25,
+      "accent_hex": "#EF8893",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G038",
+      "base_hex": "#BEE0CC",
+      "base_ratio": 60,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 30,
+      "accent_hex": "#004C86",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G039",
+      "base_hex": "#478657",
+      "base_ratio": 60,
+      "sub_hex": "#DBCBC7",
+      "sub_ratio": 30,
+      "accent_hex": "#AD722F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G040",
+      "base_hex": "#64C0AB",
+      "base_ratio": 65,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G041",
+      "base_hex": "#E6C5CF",
+      "base_ratio": 65,
+      "sub_hex": "#34485E",
+      "sub_ratio": 25,
+      "accent_hex": "#D7B63D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G042",
+      "base_hex": "#A87570",
+      "base_ratio": 60,
+      "sub_hex": "#F5F3F2",
+      "sub_ratio": 30,
+      "accent_hex": "#4D4398",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G043",
+      "base_hex": "#AF9DC0",
+      "base_ratio": 60,
+      "sub_hex": "#6A4928",
+      "sub_ratio": 30,
+      "accent_hex": "#EEE2D3",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G044",
+      "base_hex": "#9E88A6",
+      "base_ratio": 55,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 30,
+      "accent_hex": "#003740",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G045",
+      "base_hex": "#B15A5E",
+      "base_ratio": 65,
+      "sub_hex": "#DCD5C8",
+      "sub_ratio": 25,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G046",
+      "base_hex": "#DBCBC7",
+      "base_ratio": 60,
+      "sub_hex": "#4F85A6",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G047",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 65,
+      "sub_hex": "#8E775D",
+      "sub_ratio": 25,
+      "accent_hex": "#D1AE15",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G048",
+      "base_hex": "#957E80",
+      "base_ratio": 55,
+      "sub_hex": "#ACB0A8",
+      "sub_ratio": 30,
+      "accent_hex": "#9CC9E5",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G049",
+      "base_hex": "#7F5072",
+      "base_ratio": 60,
+      "sub_hex": "#EAE4D1",
+      "sub_ratio": 30,
+      "accent_hex": "#76A1B8",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G051",
+      "base_hex": "#C1D1E0",
+      "base_ratio": 55,
+      "sub_hex": "#EFD4CD",
+      "sub_ratio": 30,
+      "accent_hex": "#6E6457",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G052",
+      "base_hex": "#F3EED5",
+      "base_ratio": 60,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 30,
+      "accent_hex": "#7F5072",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G053",
+      "base_hex": "#EBE1F0",
+      "base_ratio": 65,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 25,
+      "accent_hex": "#34485E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G054",
+      "base_hex": "#BDE1DA",
+      "base_ratio": 55,
+      "sub_hex": "#E6C5CF",
+      "sub_ratio": 30,
+      "accent_hex": "#462E2E",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G055",
+      "base_hex": "#E0F1F1",
+      "base_ratio": 70,
+      "sub_hex": "#C1A37D",
+      "sub_ratio": 25,
+      "accent_hex": "#B32425",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G056",
+      "base_hex": "#F7C3BF",
+      "base_ratio": 65,
+      "sub_hex": "#D9D8CE",
+      "sub_ratio": 25,
+      "accent_hex": "#004C86",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G057",
+      "base_hex": "#D3E9D0",
+      "base_ratio": 55,
+      "sub_hex": "#F3DEB9",
+      "sub_ratio": 30,
+      "accent_hex": "#4B7A7C",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G058",
+      "base_hex": "#D2D5EC",
+      "base_ratio": 60,
+      "sub_hex": "#ACB0A8",
+      "sub_ratio": 30,
+      "accent_hex": "#AD722F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G059",
+      "base_hex": "#FFF7C9",
+      "base_ratio": 65,
+      "sub_hex": "#957E80",
+      "sub_ratio": 25,
+      "accent_hex": "#2A4743",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G060",
+      "base_hex": "#FCE9ED",
+      "base_ratio": 60,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 30,
+      "accent_hex": "#4977BC",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G061",
+      "base_hex": "#F5F3F2",
+      "base_ratio": 70,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G062",
+      "base_hex": "#DCD5C8",
+      "base_ratio": 70,
+      "sub_hex": "#4B6251",
+      "sub_ratio": 25,
+      "accent_hex": "#E85298",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G063",
+      "base_hex": "#AAABAB",
+      "base_ratio": 70,
+      "sub_hex": "#34485E",
+      "sub_ratio": 25,
+      "accent_hex": "#FDD000",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G064",
+      "base_hex": "#E4C6A6",
+      "base_ratio": 70,
+      "sub_hex": "#003F67",
+      "sub_ratio": 25,
+      "accent_hex": "#13AE67",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G065",
+      "base_hex": "#B7CDDA",
+      "base_ratio": 70,
+      "sub_hex": "#6A4928",
+      "sub_ratio": 25,
+      "accent_hex": "#F0831E",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G066",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 70,
+      "sub_hex": "#462E2E",
+      "sub_ratio": 25,
+      "accent_hex": "#1C67E9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G067",
+      "base_hex": "#EAE4D1",
+      "base_ratio": 70,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#C41A30",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G068",
+      "base_hex": "#AA998A",
+      "base_ratio": 70,
+      "sub_hex": "#34485E",
+      "sub_ratio": 25,
+      "accent_hex": "#C2CE00",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G069",
+      "base_hex": "#BFC9BD",
+      "base_ratio": 70,
+      "sub_hex": "#6E6457",
+      "sub_ratio": 25,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G070",
+      "base_hex": "#DBCBC7",
+      "base_ratio": 70,
+      "sub_hex": "#003740",
+      "sub_ratio": 25,
+      "accent_hex": "#FFDE00",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G071",
+      "base_hex": "#004C86",
+      "base_ratio": 55,
+      "sub_hex": "#F5F3F2",
+      "sub_ratio": 30,
+      "accent_hex": "#E4C6A6",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G072",
+      "base_hex": "#BC6E2E",
+      "base_ratio": 60,
+      "sub_hex": "#DCD5C8",
+      "sub_ratio": 30,
+      "accent_hex": "#34485E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G073",
+      "base_hex": "#198B86",
+      "base_ratio": 65,
+      "sub_hex": "#F5E8CF",
+      "sub_ratio": 25,
+      "accent_hex": "#6A4928",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G074",
+      "base_hex": "#C1A858",
+      "base_ratio": 60,
+      "sub_hex": "#F5F3F2",
+      "sub_ratio": 30,
+      "accent_hex": "#1A0B08",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G075",
+      "base_hex": "#8B272B",
+      "base_ratio": 65,
+      "sub_hex": "#DBCBC7",
+      "sub_ratio": 25,
+      "accent_hex": "#ACB0A8",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G076",
+      "base_hex": "#4D4398",
+      "base_ratio": 60,
+      "sub_hex": "#EEE2D3",
+      "sub_ratio": 30,
+      "accent_hex": "#AA998A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G077",
+      "base_hex": "#CE6845",
+      "base_ratio": 55,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 30,
+      "accent_hex": "#F5F3F2",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G078",
+      "base_hex": "#00A08D",
+      "base_ratio": 65,
+      "sub_hex": "#D9D8CE",
+      "sub_ratio": 25,
+      "accent_hex": "#462E2E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G079",
+      "base_hex": "#D4B572",
+      "base_ratio": 60,
+      "sub_hex": "#63676B",
+      "sub_ratio": 30,
+      "accent_hex": "#003740",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G080",
+      "base_hex": "#604461",
+      "base_ratio": 65,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 25,
+      "accent_hex": "#F5F3F2",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G081",
+      "base_hex": "#63676B",
+      "base_ratio": 60,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 30,
+      "accent_hex": "#C2CE00",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G082",
+      "base_hex": "#AAABAB",
+      "base_ratio": 65,
+      "sub_hex": "#003740",
+      "sub_ratio": 25,
+      "accent_hex": "#EBD880",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G083",
+      "base_hex": "#494544",
+      "base_ratio": 55,
+      "sub_hex": "#F7C3BF",
+      "sub_ratio": 30,
+      "accent_hex": "#B7CDDA",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G084",
+      "base_hex": "#D8DBD9",
+      "base_ratio": 60,
+      "sub_hex": "#6A4928",
+      "sub_ratio": 30,
+      "accent_hex": "#9E88A6",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G085",
+      "base_hex": "#A2A2AD",
+      "base_ratio": 65,
+      "sub_hex": "#C39C89",
+      "sub_ratio": 25,
+      "accent_hex": "#567947",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G086",
+      "base_hex": "#6E6457",
+      "base_ratio": 55,
+      "sub_hex": "#D3E9D0",
+      "sub_ratio": 30,
+      "accent_hex": "#E4C6A6",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G087",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 65,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 25,
+      "accent_hex": "#1D4763",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G088",
+      "base_hex": "#AA998A",
+      "base_ratio": 60,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 30,
+      "accent_hex": "#F5F3F2",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G089",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 60,
+      "sub_hex": "#4B7A7C",
+      "sub_ratio": 30,
+      "accent_hex": "#E7A100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G090",
+      "base_hex": "#3E3A3A",
+      "base_ratio": 60,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 30,
+      "accent_hex": "#D5A6E9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G091",
+      "base_hex": "#F5F3F2",
+      "base_ratio": 70,
+      "sub_hex": "#9E88A6",
+      "sub_ratio": 25,
+      "accent_hex": "#E60012",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "G092",
+      "base_hex": "#C39C89",
+      "base_ratio": 60,
+      "sub_hex": "#3C7D9B",
+      "sub_ratio": 30,
+      "accent_hex": "#EAE4D1",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G093",
+      "base_hex": "#B7CDDA",
+      "base_ratio": 65,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 25,
+      "accent_hex": "#D7D486",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G094",
+      "base_hex": "#AEAC78",
+      "base_ratio": 60,
+      "sub_hex": "#DBCBC7",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G096",
+      "base_hex": "#CB7F69",
+      "base_ratio": 60,
+      "sub_hex": "#F5F3F2",
+      "sub_ratio": 30,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G097",
+      "base_hex": "#4B7A7C",
+      "base_ratio": 55,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 30,
+      "accent_hex": "#F6C0D1",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "G098",
+      "base_hex": "#8E775D",
+      "base_ratio": 65,
+      "sub_hex": "#FCE9ED",
+      "sub_ratio": 25,
+      "accent_hex": "#00A08D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G099",
+      "base_hex": "#E6CD8C",
+      "base_ratio": 60,
+      "sub_hex": "#957E80",
+      "sub_ratio": 30,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "G100",
+      "base_hex": "#B9CDBF",
+      "base_ratio": 70,
+      "sub_hex": "#9E88A6",
+      "sub_ratio": 25,
+      "accent_hex": "#E7A100",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H001",
+      "base_hex": "#D2D5EC",
+      "base_ratio": 60,
+      "sub_hex": "#31B6A0",
+      "sub_ratio": 30,
+      "accent_hex": "#198B86",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H002",
+      "base_hex": "#FCE9ED",
+      "base_ratio": 55,
+      "sub_hex": "#1F1E63",
+      "sub_ratio": 30,
+      "accent_hex": "#F5B8CC",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H003",
+      "base_hex": "#CE6845",
+      "base_ratio": 60,
+      "sub_hex": "#2E499D",
+      "sub_ratio": 30,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H004",
+      "base_hex": "#0D955A",
+      "base_ratio": 55,
+      "sub_hex": "#D9D8CE",
+      "sub_ratio": 30,
+      "accent_hex": "#1C67E9",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H005",
+      "base_hex": "#34485E",
+      "base_ratio": 60,
+      "sub_hex": "#F8F5B5",
+      "sub_ratio": 30,
+      "accent_hex": "#6A4928",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H006",
+      "base_hex": "#00A08D",
+      "base_ratio": 55,
+      "sub_hex": "#A660A3",
+      "sub_ratio": 30,
+      "accent_hex": "#F6D60F",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H007",
+      "base_hex": "#E95884",
+      "base_ratio": 60,
+      "sub_hex": "#3C7D9B",
+      "sub_ratio": 30,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H008",
+      "base_hex": "#C25CEB",
+      "base_ratio": 55,
+      "sub_hex": "#FEEBBE",
+      "sub_ratio": 30,
+      "accent_hex": "#AEAC78",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H009",
+      "base_hex": "#FFF100",
+      "base_ratio": 60,
+      "sub_hex": "#2E499D",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H010",
+      "base_hex": "#B32425",
+      "base_ratio": 55,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 30,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H011",
+      "base_hex": "#5CEB7B",
+      "base_ratio": 65,
+      "sub_hex": "#6E6457",
+      "sub_ratio": 25,
+      "accent_hex": "#1D4763",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H012",
+      "base_hex": "#EB5A09",
+      "base_ratio": 55,
+      "sub_hex": "#5188B1",
+      "sub_ratio": 30,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H013",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 70,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H014",
+      "base_hex": "#601986",
+      "base_ratio": 55,
+      "sub_hex": "#E4AF9B",
+      "sub_ratio": 30,
+      "accent_hex": "#E94709",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H015",
+      "base_hex": "#25C748",
+      "base_ratio": 55,
+      "sub_hex": "#7C2E1E",
+      "sub_ratio": 30,
+      "accent_hex": "#EFEBE0",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H016",
+      "base_hex": "#D3E9D0",
+      "base_ratio": 70,
+      "sub_hex": "#31B6A0",
+      "sub_ratio": 25,
+      "accent_hex": "#4977BC",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H017",
+      "base_hex": "#EFD4CD",
+      "base_ratio": 65,
+      "sub_hex": "#1F1E63",
+      "sub_ratio": 25,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H018",
+      "base_hex": "#C39C89",
+      "base_ratio": 70,
+      "sub_hex": "#00A040",
+      "sub_ratio": 25,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H019",
+      "base_hex": "#00A479",
+      "base_ratio": 65,
+      "sub_hex": "#C1A858",
+      "sub_ratio": 25,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H020",
+      "base_hex": "#0068B7",
+      "base_ratio": 70,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 25,
+      "accent_hex": "#917C50",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H021",
+      "base_hex": "#2BB7B3",
+      "base_ratio": 65,
+      "sub_hex": "#984F9B",
+      "sub_ratio": 25,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H022",
+      "base_hex": "#F7C3BF",
+      "base_ratio": 70,
+      "sub_hex": "#254678",
+      "sub_ratio": 25,
+      "accent_hex": "#601986",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H023",
+      "base_hex": "#952DBF",
+      "base_ratio": 65,
+      "sub_hex": "#CEE2DF",
+      "sub_ratio": 25,
+      "accent_hex": "#FDD23E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H024",
+      "base_hex": "#D1AE15",
+      "base_ratio": 70,
+      "sub_hex": "#0054A7",
+      "sub_ratio": 25,
+      "accent_hex": "#B32425",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H025",
+      "base_hex": "#AD0003",
+      "base_ratio": 65,
+      "sub_hex": "#B19962",
+      "sub_ratio": 25,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H026",
+      "base_hex": "#1C67E9",
+      "base_ratio": 65,
+      "sub_hex": "#DFE2EA",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H027",
+      "base_hex": "#DC5F36",
+      "base_ratio": 65,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 25,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H028",
+      "base_hex": "#B9CDBF",
+      "base_ratio": 70,
+      "sub_hex": "#004C86",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H029",
+      "base_hex": "#8B272B",
+      "base_ratio": 65,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 25,
+      "accent_hex": "#E6E500",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H030",
+      "base_hex": "#E8382F",
+      "base_ratio": 55,
+      "sub_hex": "#5CEB7B",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF8EE",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H031",
+      "base_hex": "#C0E4F2",
+      "base_ratio": 55,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 30,
+      "accent_hex": "#004C86",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H032",
+      "base_hex": "#FFF8EE",
+      "base_ratio": 60,
+      "sub_hex": "#70372C",
+      "sub_ratio": 30,
+      "accent_hex": "#BCD537",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H034",
+      "base_hex": "#31B6A0",
+      "base_ratio": 60,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 30,
+      "accent_hex": "#C41A30",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H035",
+      "base_hex": "#4977BC",
+      "base_ratio": 55,
+      "sub_hex": "#AEAC78",
+      "sub_ratio": 30,
+      "accent_hex": "#EB6143",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H036",
+      "base_hex": "#00979B",
+      "base_ratio": 60,
+      "sub_hex": "#6E6457",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H037",
+      "base_hex": "#EA6096",
+      "base_ratio": 55,
+      "sub_hex": "#3C7D9B",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H038",
+      "base_hex": "#C25CEB",
+      "base_ratio": 60,
+      "sub_hex": "#EFE5CB",
+      "sub_ratio": 30,
+      "accent_hex": "#00A479",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H039",
+      "base_hex": "#E7A100",
+      "base_ratio": 55,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 30,
+      "accent_hex": "#9F002D",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H040",
+      "base_hex": "#E85298",
+      "base_ratio": 60,
+      "sub_hex": "#F7C3BF",
+      "sub_ratio": 30,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H044",
+      "base_hex": "#2E499D",
+      "base_ratio": 60,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 30,
+      "accent_hex": "#A660A3",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H045",
+      "base_hex": "#D13209",
+      "base_ratio": 55,
+      "sub_hex": "#1C67E9",
+      "sub_ratio": 30,
+      "accent_hex": "#C0E4F2",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H046",
+      "base_hex": "#D7D486",
+      "base_ratio": 65,
+      "sub_hex": "#EF8893",
+      "sub_ratio": 25,
+      "accent_hex": "#6C8650",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H047",
+      "base_hex": "#CEE2DF",
+      "base_ratio": 70,
+      "sub_hex": "#0068B7",
+      "sub_ratio": 25,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H049",
+      "base_hex": "#0D955A",
+      "base_ratio": 70,
+      "sub_hex": "#A87570",
+      "sub_ratio": 25,
+      "accent_hex": "#092237",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H050",
+      "base_hex": "#004C86",
+      "base_ratio": 65,
+      "sub_hex": "#D2D5EC",
+      "sub_ratio": 25,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H051",
+      "base_hex": "#64C0AB",
+      "base_ratio": 70,
+      "sub_hex": "#A660A3",
+      "sub_ratio": 25,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H052",
+      "base_hex": "#E99BC1",
+      "base_ratio": 65,
+      "sub_hex": "#79A7D9",
+      "sub_ratio": 25,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H053",
+      "base_hex": "#952DBF",
+      "base_ratio": 70,
+      "sub_hex": "#957E80",
+      "sub_ratio": 25,
+      "accent_hex": "#D1AE15",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H055",
+      "base_hex": "#D80C18",
+      "base_ratio": 70,
+      "sub_hex": "#70ACCE",
+      "sub_ratio": 25,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H057",
+      "base_hex": "#F7BBA2",
+      "base_ratio": 70,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 25,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H060",
+      "base_hex": "#EF8BB6",
+      "base_ratio": 55,
+      "sub_hex": "#13AE67",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF8EE",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H061",
+      "base_hex": "#A4EBB3",
+      "base_ratio": 60,
+      "sub_hex": "#DEB253",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H062",
+      "base_hex": "#E0F1F1",
+      "base_ratio": 55,
+      "sub_hex": "#411C50",
+      "sub_ratio": 30,
+      "accent_hex": "#EE7D50",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H065",
+      "base_hex": "#0E536D",
+      "base_ratio": 60,
+      "sub_hex": "#D2D5EC",
+      "sub_ratio": 30,
+      "accent_hex": "#6A4928",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H066",
+      "base_hex": "#00979B",
+      "base_ratio": 55,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 30,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H067",
+      "base_hex": "#E95884",
+      "base_ratio": 60,
+      "sub_hex": "#004C86",
+      "sub_ratio": 30,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H068",
+      "base_hex": "#984F9B",
+      "base_ratio": 55,
+      "sub_hex": "#F39F89",
+      "sub_ratio": 30,
+      "accent_hex": "#D1AE15",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H069",
+      "base_hex": "#FFF100",
+      "base_ratio": 60,
+      "sub_hex": "#74A64C",
+      "sub_ratio": 30,
+      "accent_hex": "#8B272B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H070",
+      "base_hex": "#9A1117",
+      "base_ratio": 55,
+      "sub_hex": "#BEE0CC",
+      "sub_ratio": 30,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H071",
+      "base_hex": "#00A040",
+      "base_ratio": 65,
+      "sub_hex": "#BDD8DD",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H072",
+      "base_hex": "#F18D00",
+      "base_ratio": 55,
+      "sub_hex": "#5FC1C7",
+      "sub_ratio": 30,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H073",
+      "base_hex": "#DBCBC7",
+      "base_ratio": 70,
+      "sub_hex": "#5188B1",
+      "sub_ratio": 25,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H074",
+      "base_hex": "#411C50",
+      "base_ratio": 55,
+      "sub_hex": "#AED265",
+      "sub_ratio": 30,
+      "accent_hex": "#FDD23E",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H076",
+      "base_hex": "#9FD9F6",
+      "base_ratio": 70,
+      "sub_hex": "#E4AF9B",
+      "sub_ratio": 25,
+      "accent_hex": "#3C7D9B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H077",
+      "base_hex": "#F5B8CC",
+      "base_ratio": 65,
+      "sub_hex": "#8B272B",
+      "sub_ratio": 25,
+      "accent_hex": "#D7B63D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H079",
+      "base_hex": "#A7D28F",
+      "base_ratio": 65,
+      "sub_hex": "#E99BC1",
+      "sub_ratio": 25,
+      "accent_hex": "#DB3A09",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H080",
+      "base_hex": "#2E499D",
+      "base_ratio": 70,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 25,
+      "accent_hex": "#7F5072",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H081",
+      "base_hex": "#8AC8CF",
+      "base_ratio": 65,
+      "sub_hex": "#9E88A6",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H082",
+      "base_hex": "#E6AFCF",
+      "base_ratio": 70,
+      "sub_hex": "#004C86",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H085",
+      "base_hex": "#E6191C",
+      "base_ratio": 65,
+      "sub_hex": "#C9C2E0",
+      "sub_ratio": 25,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H086",
+      "base_hex": "#1C67E9",
+      "base_ratio": 65,
+      "sub_hex": "#E0F1F1",
+      "sub_ratio": 25,
+      "accent_hex": "#F7C4D4",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H089",
+      "base_hex": "#4D4C1F",
+      "base_ratio": 65,
+      "sub_hex": "#D5A6E9",
+      "sub_ratio": 25,
+      "accent_hex": "#E85298",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H090",
+      "base_hex": "#25C748",
+      "base_ratio": 55,
+      "sub_hex": "#AD722F",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H091",
+      "base_hex": "#F7E3AF",
+      "base_ratio": 55,
+      "sub_hex": "#EF8893",
+      "sub_ratio": 30,
+      "accent_hex": "#70372C",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H092",
+      "base_hex": "#FCE9ED",
+      "base_ratio": 60,
+      "sub_hex": "#411C50",
+      "sub_ratio": 30,
+      "accent_hex": "#BCD537",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H094",
+      "base_hex": "#669B76",
+      "base_ratio": 60,
+      "sub_hex": "#F39F89",
+      "sub_ratio": 30,
+      "accent_hex": "#101841",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H095",
+      "base_hex": "#74B5E4",
+      "base_ratio": 55,
+      "sub_hex": "#F4AA9A",
+      "sub_ratio": 30,
+      "accent_hex": "#C03619",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H096",
+      "base_hex": "#31B6A0",
+      "base_ratio": 60,
+      "sub_hex": "#A660A3",
+      "sub_ratio": 30,
+      "accent_hex": "#63676B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H097",
+      "base_hex": "#A87570",
+      "base_ratio": 55,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 30,
+      "accent_hex": "#254678",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H098",
+      "base_hex": "#C25CEB",
+      "base_ratio": 60,
+      "sub_hex": "#FCE9ED",
+      "sub_ratio": 30,
+      "accent_hex": "#BEE0CC",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H099",
+      "base_hex": "#FAE06A",
+      "base_ratio": 55,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 30,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H100",
+      "base_hex": "#9F002D",
+      "base_ratio": 60,
+      "sub_hex": "#B19962",
+      "sub_ratio": 30,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H103",
+      "base_hex": "#A2A2AD",
+      "base_ratio": 70,
+      "sub_hex": "#4B7A7C",
+      "sub_ratio": 25,
+      "accent_hex": "#E5006A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H104",
+      "base_hex": "#003F67",
+      "base_ratio": 60,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 30,
+      "accent_hex": "#0D955A",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H105",
+      "base_hex": "#5CEB7B",
+      "base_ratio": 55,
+      "sub_hex": "#1C67E9",
+      "sub_ratio": 30,
+      "accent_hex": "#EFEBE0",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H106",
+      "base_hex": "#FEEBBE",
+      "base_ratio": 65,
+      "sub_hex": "#64C0AB",
+      "sub_ratio": 25,
+      "accent_hex": "#198B86",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H107",
+      "base_hex": "#E4C6A6",
+      "base_ratio": 70,
+      "sub_hex": "#0054A7",
+      "sub_ratio": 25,
+      "accent_hex": "#F18D00",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H109",
+      "base_hex": "#AED265",
+      "base_ratio": 70,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 25,
+      "accent_hex": "#EB5A09",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H110",
+      "base_hex": "#0054A7",
+      "base_ratio": 65,
+      "sub_hex": "#C39C89",
+      "sub_ratio": 25,
+      "accent_hex": "#E7A100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H111",
+      "base_hex": "#5FC1C7",
+      "base_ratio": 70,
+      "sub_hex": "#9E88A6",
+      "sub_ratio": 25,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H112",
+      "base_hex": "#F3ABC0",
+      "base_ratio": 65,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 25,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H114",
+      "base_hex": "#FFEE7D",
+      "base_ratio": 65,
+      "sub_hex": "#0068B7",
+      "sub_ratio": 25,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H115",
+      "base_hex": "#C41A30",
+      "base_ratio": 70,
+      "sub_hex": "#E6AFCF",
+      "sub_ratio": 25,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H116",
+      "base_hex": "#25C748",
+      "base_ratio": 65,
+      "sub_hex": "#F8F5B5",
+      "sub_ratio": 25,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H118",
+      "base_hex": "#63676B",
+      "base_ratio": 70,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H119",
+      "base_hex": "#1F1E63",
+      "base_ratio": 70,
+      "sub_hex": "#EF8BB6",
+      "sub_ratio": 25,
+      "accent_hex": "#E85298",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H120",
+      "base_hex": "#DEB253",
+      "base_ratio": 55,
+      "sub_hex": "#E85298",
+      "sub_ratio": 30,
+      "accent_hex": "#BEE0CC",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H121",
+      "base_hex": "#A7D9DD",
+      "base_ratio": 60,
+      "sub_hex": "#F3ABC0",
+      "sub_ratio": 30,
+      "accent_hex": "#7C2E1E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H122",
+      "base_hex": "#F7BBA2",
+      "base_ratio": 55,
+      "sub_hex": "#411C50",
+      "sub_ratio": 30,
+      "accent_hex": "#F08437",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H124",
+      "base_hex": "#567947",
+      "base_ratio": 55,
+      "sub_hex": "#F7E3AF",
+      "sub_ratio": 30,
+      "accent_hex": "#101841",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H125",
+      "base_hex": "#39BCDD",
+      "base_ratio": 60,
+      "sub_hex": "#A2A2AD",
+      "sub_ratio": 30,
+      "accent_hex": "#C03619",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H126",
+      "base_hex": "#198B86",
+      "base_ratio": 55,
+      "sub_hex": "#7F5072",
+      "sub_ratio": 30,
+      "accent_hex": "#0E536D",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H127",
+      "base_hex": "#B15A5E",
+      "base_ratio": 60,
+      "sub_hex": "#6C8650",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H128",
+      "base_hex": "#A660A3",
+      "base_ratio": 55,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 30,
+      "accent_hex": "#D1AE15",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H129",
+      "base_hex": "#E7A100",
+      "base_ratio": 60,
+      "sub_hex": "#254678",
+      "sub_ratio": 30,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H130",
+      "base_hex": "#B32425",
+      "base_ratio": 55,
+      "sub_hex": "#70ACCE",
+      "sub_ratio": 30,
+      "accent_hex": "#478657",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H132",
+      "base_hex": "#F08437",
+      "base_ratio": 55,
+      "sub_hex": "#5188B1",
+      "sub_ratio": 30,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H133",
+      "base_hex": "#D9D8CE",
+      "base_ratio": 70,
+      "sub_hex": "#917C50",
+      "sub_ratio": 25,
+      "accent_hex": "#C25CEB",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H134",
+      "base_hex": "#8B272B",
+      "base_ratio": 55,
+      "sub_hex": "#74B5E4",
+      "sub_ratio": 30,
+      "accent_hex": "#5CEB7B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H135",
+      "base_hex": "#C25CEB",
+      "base_ratio": 55,
+      "sub_hex": "#9A1117",
+      "sub_ratio": 30,
+      "accent_hex": "#F9D6E2",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H136",
+      "base_hex": "#F8F5B5",
+      "base_ratio": 70,
+      "sub_hex": "#79A7D9",
+      "sub_ratio": 25,
+      "accent_hex": "#478657",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H137",
+      "base_hex": "#DFE2EA",
+      "base_ratio": 65,
+      "sub_hex": "#4D4398",
+      "sub_ratio": 25,
+      "accent_hex": "#AED265",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H138",
+      "base_hex": "#F39F89",
+      "base_ratio": 70,
+      "sub_hex": "#11F542",
+      "sub_ratio": 25,
+      "accent_hex": "#411C50",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H139",
+      "base_hex": "#74A64C",
+      "base_ratio": 65,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 25,
+      "accent_hex": "#3C7D9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H140",
+      "base_hex": "#4977BC",
+      "base_ratio": 70,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 25,
+      "accent_hex": "#D5A6E9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H141",
+      "base_hex": "#198B86",
+      "base_ratio": 65,
+      "sub_hex": "#EF8BB6",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H142",
+      "base_hex": "#F2A1A6",
+      "base_ratio": 70,
+      "sub_hex": "#494544",
+      "sub_ratio": 25,
+      "accent_hex": "#003F67",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H143",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 65,
+      "sub_hex": "#C1A37D",
+      "sub_ratio": 25,
+      "accent_hex": "#00A479",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H144",
+      "base_hex": "#FAE06A",
+      "base_ratio": 70,
+      "sub_hex": "#0068B7",
+      "sub_ratio": 25,
+      "accent_hex": "#9F002D",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H145",
+      "base_hex": "#E94709",
+      "base_ratio": 65,
+      "sub_hex": "#C39C89",
+      "sub_ratio": 25,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H146",
+      "base_hex": "#13AE67",
+      "base_ratio": 65,
+      "sub_hex": "#8E775D",
+      "sub_ratio": 25,
+      "accent_hex": "#303967",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H147",
+      "base_hex": "#EE7D50",
+      "base_ratio": 65,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 25,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H148",
+      "base_hex": "#AA998A",
+      "base_ratio": 70,
+      "sub_hex": "#8AC8CF",
+      "sub_ratio": 25,
+      "accent_hex": "#E5006A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H149",
+      "base_hex": "#50391C",
+      "base_ratio": 65,
+      "sub_hex": "#AEAC78",
+      "sub_ratio": 25,
+      "accent_hex": "#E85298",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H150",
+      "base_hex": "#EA6096",
+      "base_ratio": 55,
+      "sub_hex": "#AD722F",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF8EE",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H151",
+      "base_hex": "#E6C5CF",
+      "base_ratio": 55,
+      "sub_hex": "#C1A858",
+      "sub_ratio": 30,
+      "accent_hex": "#50391C",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H152",
+      "base_hex": "#9FD9F6",
+      "base_ratio": 60,
+      "sub_hex": "#1F1E63",
+      "sub_ratio": 30,
+      "accent_hex": "#F3ABC0",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H153",
+      "base_hex": "#F4AA9A",
+      "base_ratio": 55,
+      "sub_hex": "#0054A7",
+      "sub_ratio": 30,
+      "accent_hex": "#C41A30",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H154",
+      "base_hex": "#478657",
+      "base_ratio": 60,
+      "sub_hex": "#8E775D",
+      "sub_ratio": 30,
+      "accent_hex": "#F18D00",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H155",
+      "base_hex": "#1D4763",
+      "base_ratio": 55,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 30,
+      "accent_hex": "#9E88A6",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H156",
+      "base_hex": "#64C0AB",
+      "base_ratio": 60,
+      "sub_hex": "#917C50",
+      "sub_ratio": 30,
+      "accent_hex": "#F6D60F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H157",
+      "base_hex": "#E95884",
+      "base_ratio": 55,
+      "sub_hex": "#0E536D",
+      "sub_ratio": 30,
+      "accent_hex": "#2E499D",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H158",
+      "base_hex": "#952DBF",
+      "base_ratio": 60,
+      "sub_hex": "#EFE5CB",
+      "sub_ratio": 30,
+      "accent_hex": "#B9CDBF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H159",
+      "base_hex": "#F6D60F",
+      "base_ratio": 55,
+      "sub_hex": "#6E6457",
+      "sub_ratio": 30,
+      "accent_hex": "#A87570",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H160",
+      "base_hex": "#9A1117",
+      "base_ratio": 60,
+      "sub_hex": "#9FD9F6",
+      "sub_ratio": 30,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H161",
+      "base_hex": "#11F542",
+      "base_ratio": 65,
+      "sub_hex": "#BDD8DD",
+      "sub_ratio": 25,
+      "accent_hex": "#003740",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H162",
+      "base_hex": "#BC6E2E",
+      "base_ratio": 60,
+      "sub_hex": "#4B6251",
+      "sub_ratio": 30,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H163",
+      "base_hex": "#A2A2AD",
+      "base_ratio": 70,
+      "sub_hex": "#7C2E1E",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H164",
+      "base_hex": "#4D4C1F",
+      "base_ratio": 60,
+      "sub_hex": "#EF8893",
+      "sub_ratio": 30,
+      "accent_hex": "#CE6845",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H166",
+      "base_hex": "#E6CD8C",
+      "base_ratio": 65,
+      "sub_hex": "#EF8893",
+      "sub_ratio": 25,
+      "accent_hex": "#885517",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H167",
+      "base_hex": "#E0F1F1",
+      "base_ratio": 70,
+      "sub_hex": "#70372C",
+      "sub_ratio": 25,
+      "accent_hex": "#FACA7B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H168",
+      "base_hex": "#C9BE72",
+      "base_ratio": 65,
+      "sub_hex": "#25C748",
+      "sub_ratio": 25,
+      "accent_hex": "#AD0003",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H169",
+      "base_hex": "#567947",
+      "base_ratio": 70,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 25,
+      "accent_hex": "#F49C2D",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H170",
+      "base_hex": "#70ACCE",
+      "base_ratio": 65,
+      "sub_hex": "#C39C89",
+      "sub_ratio": 25,
+      "accent_hex": "#885517",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H171",
+      "base_hex": "#2BB7B3",
+      "base_ratio": 70,
+      "sub_hex": "#957E80",
+      "sub_ratio": 25,
+      "accent_hex": "#D4B572",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H172",
+      "base_hex": "#EF8BB6",
+      "base_ratio": 65,
+      "sub_hex": "#6C8650",
+      "sub_ratio": 25,
+      "accent_hex": "#604461",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H174",
+      "base_hex": "#FFE33F",
+      "base_ratio": 65,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 25,
+      "accent_hex": "#FEEBBE",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H175",
+      "base_hex": "#DB3A09",
+      "base_ratio": 70,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 25,
+      "accent_hex": "#604461",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H176",
+      "base_hex": "#25C748",
+      "base_ratio": 65,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 25,
+      "accent_hex": "#F7C4D4",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H177",
+      "base_hex": "#E1B985",
+      "base_ratio": 70,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 25,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H178",
+      "base_hex": "#CEE2DF",
+      "base_ratio": 70,
+      "sub_hex": "#9CC9E5",
+      "sub_ratio": 25,
+      "accent_hex": "#E5006A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H179",
+      "base_hex": "#003740",
+      "base_ratio": 70,
+      "sub_hex": "#CB7F69",
+      "sub_ratio": 25,
+      "accent_hex": "#B15A5E",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H180",
+      "base_hex": "#00A040",
+      "base_ratio": 55,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 30,
+      "accent_hex": "#D2D5EC",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H181",
+      "base_hex": "#DCC58C",
+      "base_ratio": 60,
+      "sub_hex": "#00A08D",
+      "sub_ratio": 30,
+      "accent_hex": "#7F5072",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H182",
+      "base_hex": "#BEE0CC",
+      "base_ratio": 55,
+      "sub_hex": "#7C2E1E",
+      "sub_ratio": 30,
+      "accent_hex": "#BCD537",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H183",
+      "base_hex": "#D4B572",
+      "base_ratio": 60,
+      "sub_hex": "#1C67E9",
+      "sub_ratio": 30,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H184",
+      "base_hex": "#64C0AB",
+      "base_ratio": 55,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 30,
+      "accent_hex": "#101841",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H185",
+      "base_hex": "#3C7D9B",
+      "base_ratio": 60,
+      "sub_hex": "#F4AA9A",
+      "sub_ratio": 30,
+      "accent_hex": "#CE6845",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H186",
+      "base_hex": "#5FC1C7",
+      "base_ratio": 55,
+      "sub_hex": "#7F5072",
+      "sub_ratio": 30,
+      "accent_hex": "#1D4763",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H187",
+      "base_hex": "#A87570",
+      "base_ratio": 60,
+      "sub_hex": "#A7D28F",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H188",
+      "base_hex": "#C25CEB",
+      "base_ratio": 55,
+      "sub_hex": "#EFD4CD",
+      "sub_ratio": 30,
+      "accent_hex": "#FDD23E",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H189",
+      "base_hex": "#FFF100",
+      "base_ratio": 60,
+      "sub_hex": "#567947",
+      "sub_ratio": 30,
+      "accent_hex": "#F9D6E2",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H190",
+      "base_hex": "#E6191C",
+      "base_ratio": 55,
+      "sub_hex": "#B19962",
+      "sub_ratio": 30,
+      "accent_hex": "#34485E",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H191",
+      "base_hex": "#0054A7",
+      "base_ratio": 65,
+      "sub_hex": "#957E80",
+      "sub_ratio": 25,
+      "accent_hex": "#003F67",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H192",
+      "base_hex": "#F18D00",
+      "base_ratio": 55,
+      "sub_hex": "#9CC9E5",
+      "sub_ratio": 30,
+      "accent_hex": "#DFE2EA",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H193",
+      "base_hex": "#957E80",
+      "base_ratio": 70,
+      "sub_hex": "#1D4763",
+      "sub_ratio": 25,
+      "accent_hex": "#C25CEB",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H194",
+      "base_hex": "#7F5072",
+      "base_ratio": 55,
+      "sub_hex": "#70ACCE",
+      "sub_ratio": 30,
+      "accent_hex": "#0D955A",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H196",
+      "base_hex": "#ECBBB5",
+      "base_ratio": 70,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 25,
+      "accent_hex": "#5F5E45",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H197",
+      "base_hex": "#EFEBE0",
+      "base_ratio": 65,
+      "sub_hex": "#4D4398",
+      "sub_ratio": 25,
+      "accent_hex": "#E99BC1",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H200",
+      "base_hex": "#5188B1",
+      "base_ratio": 70,
+      "sub_hex": "#F4AA9A",
+      "sub_ratio": 25,
+      "accent_hex": "#AF9DC0",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H201",
+      "base_hex": "#5B9F8A",
+      "base_ratio": 65,
+      "sub_hex": "#C9C2E0",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H202",
+      "base_hex": "#E95884",
+      "base_ratio": 70,
+      "sub_hex": "#79A7D9",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H203",
+      "base_hex": "#A660A3",
+      "base_ratio": 65,
+      "sub_hex": "#AEAC78",
+      "sub_ratio": 25,
+      "accent_hex": "#DDE67B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H204",
+      "base_hex": "#FACA7B",
+      "base_ratio": 70,
+      "sub_hex": "#13AE67",
+      "sub_ratio": 25,
+      "accent_hex": "#D3E9D0",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H205",
+      "base_hex": "#E85298",
+      "base_ratio": 65,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 25,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H206",
+      "base_hex": "#5CEB7B",
+      "base_ratio": 65,
+      "sub_hex": "#F8F5B5",
+      "sub_ratio": 25,
+      "accent_hex": "#003740",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H207",
+      "base_hex": "#F49C2D",
+      "base_ratio": 65,
+      "sub_hex": "#00979B",
+      "sub_ratio": 25,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H208",
+      "base_hex": "#6E6457",
+      "base_ratio": 70,
+      "sub_hex": "#34485E",
+      "sub_ratio": 25,
+      "accent_hex": "#E6E500",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H209",
+      "base_hex": "#303967",
+      "base_ratio": 65,
+      "sub_hex": "#74A64C",
+      "sub_ratio": 25,
+      "accent_hex": "#E6E500",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H210",
+      "base_hex": "#EE7D50",
+      "base_ratio": 55,
+      "sub_hex": "#984F9B",
+      "sub_ratio": 30,
+      "accent_hex": "#FCE9ED",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H211",
+      "base_hex": "#F9D6E2",
+      "base_ratio": 55,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 30,
+      "accent_hex": "#AD722F",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H212",
+      "base_hex": "#F7C4D4",
+      "base_ratio": 60,
+      "sub_hex": "#411C50",
+      "sub_ratio": 30,
+      "accent_hex": "#A3A058",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H213",
+      "base_hex": "#CE6845",
+      "base_ratio": 55,
+      "sub_hex": "#B9CDBF",
+      "sub_ratio": 30,
+      "accent_hex": "#B32425",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H214",
+      "base_hex": "#478657",
+      "base_ratio": 60,
+      "sub_hex": "#D7D486",
+      "sub_ratio": 30,
+      "accent_hex": "#3C7D9B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H215",
+      "base_hex": "#74B5E4",
+      "base_ratio": 55,
+      "sub_hex": "#A2A2AD",
+      "sub_ratio": 30,
+      "accent_hex": "#7F5072",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H216",
+      "base_hex": "#4B7A7C",
+      "base_ratio": 60,
+      "sub_hex": "#BC6E2E",
+      "sub_ratio": 30,
+      "accent_hex": "#003740",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H217",
+      "base_hex": "#EF8893",
+      "base_ratio": 55,
+      "sub_hex": "#5188B1",
+      "sub_ratio": 30,
+      "accent_hex": "#0E536D",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H218",
+      "base_hex": "#AF9DC0",
+      "base_ratio": 60,
+      "sub_hex": "#CB7F69",
+      "sub_ratio": 30,
+      "accent_hex": "#FDD23E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H219",
+      "base_hex": "#A3A058",
+      "base_ratio": 55,
+      "sub_hex": "#00A479",
+      "sub_ratio": 30,
+      "accent_hex": "#E0F1F1",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H220",
+      "base_hex": "#D13209",
+      "base_ratio": 60,
+      "sub_hex": "#B19962",
+      "sub_ratio": 30,
+      "accent_hex": "#63676B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H222",
+      "base_hex": "#F08437",
+      "base_ratio": 60,
+      "sub_hex": "#9EC3BC",
+      "sub_ratio": 30,
+      "accent_hex": "#2A4743",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H223",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 70,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 25,
+      "accent_hex": "#1CE948",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H224",
+      "base_hex": "#50391C",
+      "base_ratio": 60,
+      "sub_hex": "#74A64C",
+      "sub_ratio": 30,
+      "accent_hex": "#5CEB7B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H226",
+      "base_hex": "#E4C6A6",
+      "base_ratio": 65,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 25,
+      "accent_hex": "#003F67",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H227",
+      "base_hex": "#E6CD8C",
+      "base_ratio": 70,
+      "sub_hex": "#4D4398",
+      "sub_ratio": 25,
+      "accent_hex": "#BCD537",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H228",
+      "base_hex": "#8E775D",
+      "base_ratio": 65,
+      "sub_hex": "#25C748",
+      "sub_ratio": 25,
+      "accent_hex": "#D80C18",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H229",
+      "base_hex": "#A7D28F",
+      "base_ratio": 70,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 25,
+      "accent_hex": "#092237",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H230",
+      "base_hex": "#254678",
+      "base_ratio": 65,
+      "sub_hex": "#D4B572",
+      "sub_ratio": 25,
+      "accent_hex": "#5F5E45",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H231",
+      "base_hex": "#A7D9DD",
+      "base_ratio": 70,
+      "sub_hex": "#E99BC1",
+      "sub_ratio": 25,
+      "accent_hex": "#FFF100",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H232",
+      "base_hex": "#EF8893",
+      "base_ratio": 65,
+      "sub_hex": "#31B6A0",
+      "sub_ratio": 25,
+      "accent_hex": "#303967",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H233",
+      "base_hex": "#952DBF",
+      "base_ratio": 70,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 25,
+      "accent_hex": "#00A479",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H234",
+      "base_hex": "#DDE67B",
+      "base_ratio": 65,
+      "sub_hex": "#567947",
+      "sub_ratio": 25,
+      "accent_hex": "#9F002D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H235",
+      "base_hex": "#B32425",
+      "base_ratio": 70,
+      "sub_hex": "#9FD9F6",
+      "sub_ratio": 25,
+      "accent_hex": "#2E499D",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H236",
+      "base_hex": "#13AE67",
+      "base_ratio": 65,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H237",
+      "base_hex": "#EB6143",
+      "base_ratio": 70,
+      "sub_hex": "#A7D28F",
+      "sub_ratio": 25,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H238",
+      "base_hex": "#CEE2DF",
+      "base_ratio": 70,
+      "sub_hex": "#74B5E4",
+      "sub_ratio": 25,
+      "accent_hex": "#C25CEB",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H239",
+      "base_hex": "#6A4928",
+      "base_ratio": 70,
+      "sub_hex": "#F2A1A6",
+      "sub_ratio": 25,
+      "accent_hex": "#A660A3",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H240",
+      "base_hex": "#E8382F",
+      "base_ratio": 55,
+      "sub_hex": "#D5A6E9",
+      "sub_ratio": 30,
+      "accent_hex": "#EFE5CB",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H241",
+      "base_hex": "#A4EBB3",
+      "base_ratio": 60,
+      "sub_hex": "#8AC8CF",
+      "sub_ratio": 30,
+      "accent_hex": "#7F5072",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H242",
+      "base_hex": "#D4DFBB",
+      "base_ratio": 55,
+      "sub_hex": "#411C50",
+      "sub_ratio": 30,
+      "accent_hex": "#DEB253",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H243",
+      "base_hex": "#BC6E2E",
+      "base_ratio": 60,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 30,
+      "accent_hex": "#AD0003",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H244",
+      "base_hex": "#AED265",
+      "base_ratio": 55,
+      "sub_hex": "#EBD880",
+      "sub_ratio": 30,
+      "accent_hex": "#E94709",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H245",
+      "base_hex": "#9CC9E5",
+      "base_ratio": 60,
+      "sub_hex": "#D7D486",
+      "sub_ratio": 30,
+      "accent_hex": "#EB6143",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H246",
+      "base_hex": "#00A08D",
+      "base_ratio": 55,
+      "sub_hex": "#AD722F",
+      "sub_ratio": 30,
+      "accent_hex": "#FFE33F",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H247",
+      "base_hex": "#F5B8CC",
+      "base_ratio": 60,
+      "sub_hex": "#31B6A0",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H248",
+      "base_hex": "#9E88A6",
+      "base_ratio": 55,
+      "sub_hex": "#F7BBA2",
+      "sub_ratio": 30,
+      "accent_hex": "#FAE06A",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H249",
+      "base_hex": "#D7B63D",
+      "base_ratio": 60,
+      "sub_hex": "#1D4763",
+      "sub_ratio": 30,
+      "accent_hex": "#9A1117",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H250",
+      "base_hex": "#DC5F36",
+      "base_ratio": 55,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 30,
+      "accent_hex": "#3C7D9B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H251",
+      "base_hex": "#0068B7",
+      "base_ratio": 65,
+      "sub_hex": "#FCE9ED",
+      "sub_ratio": 25,
+      "accent_hex": "#004C86",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H252",
+      "base_hex": "#DC5F36",
+      "base_ratio": 55,
+      "sub_hex": "#00A08D",
+      "sub_ratio": 30,
+      "accent_hex": "#003740",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H253",
+      "base_hex": "#B9CDBF",
+      "base_ratio": 70,
+      "sub_hex": "#C1A858",
+      "sub_ratio": 25,
+      "accent_hex": "#C25CEB",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H254",
+      "base_hex": "#4D4398",
+      "base_ratio": 55,
+      "sub_hex": "#5FC1C7",
+      "sub_ratio": 30,
+      "accent_hex": "#0D955A",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H255",
+      "base_hex": "#E85298",
+      "base_ratio": 55,
+      "sub_hex": "#5CEB7B",
+      "sub_ratio": 30,
+      "accent_hex": "#DFE2EA",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H256",
+      "base_hex": "#F8F5B5",
+      "base_ratio": 70,
+      "sub_hex": "#D5A6E9",
+      "sub_ratio": 25,
+      "accent_hex": "#2A4743",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H257",
+      "base_hex": "#FFF7C9",
+      "base_ratio": 65,
+      "sub_hex": "#462E2E",
+      "sub_ratio": 25,
+      "accent_hex": "#74A64C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H259",
+      "base_hex": "#5B9F8A",
+      "base_ratio": 65,
+      "sub_hex": "#DBCBC7",
+      "sub_ratio": 25,
+      "accent_hex": "#092237",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H260",
+      "base_hex": "#79A7D9",
+      "base_ratio": 70,
+      "sub_hex": "#F7BBA2",
+      "sub_ratio": 25,
+      "accent_hex": "#A660A3",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H261",
+      "base_hex": "#198B86",
+      "base_ratio": 65,
+      "sub_hex": "#885517",
+      "sub_ratio": 25,
+      "accent_hex": "#003740",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H262",
+      "base_hex": "#EA6096",
+      "base_ratio": 70,
+      "sub_hex": "#567947",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H263",
+      "base_hex": "#984F9B",
+      "base_ratio": 65,
+      "sub_hex": "#AD722F",
+      "sub_ratio": 25,
+      "accent_hex": "#64C0AB",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H264",
+      "base_hex": "#E7A100",
+      "base_ratio": 70,
+      "sub_hex": "#0D955A",
+      "sub_ratio": 25,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H265",
+      "base_hex": "#E5006A",
+      "base_ratio": 65,
+      "sub_hex": "#AF9DC0",
+      "sub_ratio": 25,
+      "accent_hex": "#0E536D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H266",
+      "base_hex": "#00A040",
+      "base_ratio": 65,
+      "sub_hex": "#AEAC78",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H267",
+      "base_hex": "#F18D00",
+      "base_ratio": 65,
+      "sub_hex": "#79A7D9",
+      "sub_ratio": 25,
+      "accent_hex": "#34485E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H268",
+      "base_hex": "#EFD4CD",
+      "base_ratio": 70,
+      "sub_hex": "#5188B1",
+      "sub_ratio": 25,
+      "accent_hex": "#1CE948",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H269",
+      "base_hex": "#601986",
+      "base_ratio": 65,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 25,
+      "accent_hex": "#F6D60F",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H270",
+      "base_hex": "#D80C18",
+      "base_ratio": 55,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 30,
+      "accent_hex": "#F9D6E2",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H271",
+      "base_hex": "#D7D486",
+      "base_ratio": 55,
+      "sub_hex": "#8AB0BC",
+      "sub_ratio": 30,
+      "accent_hex": "#00979B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H272",
+      "base_hex": "#E6C5CF",
+      "base_ratio": 60,
+      "sub_hex": "#4D4C1F",
+      "sub_ratio": 30,
+      "accent_hex": "#13AE67",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H273",
+      "base_hex": "#CE6845",
+      "base_ratio": 55,
+      "sub_hex": "#1CE948",
+      "sub_ratio": 30,
+      "accent_hex": "#411C50",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H274",
+      "base_hex": "#4B6251",
+      "base_ratio": 60,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 30,
+      "accent_hex": "#9F002D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H275",
+      "base_hex": "#3C7D9B",
+      "base_ratio": 55,
+      "sub_hex": "#B19962",
+      "sub_ratio": 30,
+      "accent_hex": "#E7A100",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H276",
+      "base_hex": "#8AC8CF",
+      "base_ratio": 60,
+      "sub_hex": "#C1A858",
+      "sub_ratio": 30,
+      "accent_hex": "#FFEE7D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H277",
+      "base_hex": "#F3ABC0",
+      "base_ratio": 55,
+      "sub_hex": "#0E536D",
+      "sub_ratio": 30,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H278",
+      "base_hex": "#D5A6E9",
+      "base_ratio": 60,
+      "sub_hex": "#957E80",
+      "sub_ratio": 30,
+      "accent_hex": "#31B6A0",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H279",
+      "base_hex": "#FFE33F",
+      "base_ratio": 55,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 30,
+      "accent_hex": "#EFEBE0",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H280",
+      "base_hex": "#9A1117",
+      "base_ratio": 60,
+      "sub_hex": "#70ACCE",
+      "sub_ratio": 30,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H281",
+      "base_hex": "#25C748",
+      "base_ratio": 65,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#DCC58C",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H282",
+      "base_hex": "#F39F89",
+      "base_ratio": 60,
+      "sub_hex": "#6C8650",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H283",
+      "base_hex": "#DBCBC7",
+      "base_ratio": 70,
+      "sub_hex": "#AD722F",
+      "sub_ratio": 25,
+      "accent_hex": "#E5006A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H284",
+      "base_hex": "#1A274B",
+      "base_ratio": 60,
+      "sub_hex": "#EF8BB6",
+      "sub_ratio": 30,
+      "accent_hex": "#CB7F69",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H285",
+      "base_hex": "#C25CEB",
+      "base_ratio": 55,
+      "sub_hex": "#EB5A09",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF8EE",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H286",
+      "base_hex": "#ECBBB5",
+      "base_ratio": 65,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 25,
+      "accent_hex": "#885517",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H287",
+      "base_hex": "#9FD9F6",
+      "base_ratio": 70,
+      "sub_hex": "#50391C",
+      "sub_ratio": 25,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H288",
+      "base_hex": "#DEB253",
+      "base_ratio": 65,
+      "sub_hex": "#34485E",
+      "sub_ratio": 25,
+      "accent_hex": "#952DBF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H289",
+      "base_hex": "#00A479",
+      "base_ratio": 70,
+      "sub_hex": "#E6CD8C",
+      "sub_ratio": 25,
+      "accent_hex": "#F18D00",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H290",
+      "base_hex": "#0054A7",
+      "base_ratio": 65,
+      "sub_hex": "#ACB0A8",
+      "sub_ratio": 25,
+      "accent_hex": "#DC5F36",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H291",
+      "base_hex": "#4B7A7C",
+      "base_ratio": 70,
+      "sub_hex": "#D7B63D",
+      "sub_ratio": 25,
+      "accent_hex": "#FAE06A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H292",
+      "base_hex": "#B15A5E",
+      "base_ratio": 65,
+      "sub_hex": "#AA998A",
+      "sub_ratio": 25,
+      "accent_hex": "#411C50",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H293",
+      "base_hex": "#604461",
+      "base_ratio": 70,
+      "sub_hex": "#E4C6A6",
+      "sub_ratio": 25,
+      "accent_hex": "#74A64C",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H294",
+      "base_hex": "#FDD23E",
+      "base_ratio": 65,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 25,
+      "accent_hex": "#8B272B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H295",
+      "base_hex": "#E6191C",
+      "base_ratio": 70,
+      "sub_hex": "#C1A37D",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H297",
+      "base_hex": "#EE7D50",
+      "base_ratio": 70,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#2A4743",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H298",
+      "base_hex": "#B7CDDA",
+      "base_ratio": 70,
+      "sub_hex": "#198B86",
+      "sub_ratio": 25,
+      "accent_hex": "#E85298",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H299",
+      "base_hex": "#70372C",
+      "base_ratio": 70,
+      "sub_hex": "#5FC1C7",
+      "sub_ratio": 25,
+      "accent_hex": "#00A08D",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H300",
+      "base_hex": "#BCD537",
+      "base_ratio": 55,
+      "sub_hex": "#A660A3",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H301",
+      "base_hex": "#EFE5CB",
+      "base_ratio": 60,
+      "sub_hex": "#CB7F69",
+      "sub_ratio": 30,
+      "accent_hex": "#957E80",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H302",
+      "base_hex": "#BDD8DD",
+      "base_ratio": 55,
+      "sub_hex": "#885517",
+      "sub_ratio": 30,
+      "accent_hex": "#13AE67",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H303",
+      "base_hex": "#E4AF9B",
+      "base_ratio": 60,
+      "sub_hex": "#1C67E9",
+      "sub_ratio": 30,
+      "accent_hex": "#C41A30",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H304",
+      "base_hex": "#31B6A0",
+      "base_ratio": 55,
+      "sub_hex": "#F2A1A6",
+      "sub_ratio": 30,
+      "accent_hex": "#C03619",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H305",
+      "base_hex": "#70ACCE",
+      "base_ratio": 60,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 30,
+      "accent_hex": "#C03619",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H306",
+      "base_hex": "#00979B",
+      "base_ratio": 55,
+      "sub_hex": "#9E88A6",
+      "sub_ratio": 30,
+      "accent_hex": "#34485E",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H307",
+      "base_hex": "#E99BC1",
+      "base_ratio": 60,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 30,
+      "accent_hex": "#1F1E63",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H308",
+      "base_hex": "#C9C2E0",
+      "base_ratio": 55,
+      "sub_hex": "#FACA7B",
+      "sub_ratio": 30,
+      "accent_hex": "#0D955A",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H309",
+      "base_hex": "#FFEE7D",
+      "base_ratio": 60,
+      "sub_hex": "#254678",
+      "sub_ratio": 30,
+      "accent_hex": "#BEE0CC",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H310",
+      "base_hex": "#C41A30",
+      "base_ratio": 55,
+      "sub_hex": "#F5B8CC",
+      "sub_ratio": 30,
+      "accent_hex": "#3C7D9B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H311",
+      "base_hex": "#13AE67",
+      "base_ratio": 65,
+      "sub_hex": "#F8F5B5",
+      "sub_ratio": 25,
+      "accent_hex": "#2E499D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H312",
+      "base_hex": "#EB6143",
+      "base_ratio": 55,
+      "sub_hex": "#8AB0BC",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H313",
+      "base_hex": "#EFD4CD",
+      "base_ratio": 70,
+      "sub_hex": "#F096A0",
+      "sub_ratio": 25,
+      "accent_hex": "#AF1CE9",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H314",
+      "base_hex": "#002A5B",
+      "base_ratio": 55,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 30,
+      "accent_hex": "#64C0AB",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H315",
+      "base_hex": "#D13209",
+      "base_ratio": 55,
+      "sub_hex": "#5CEB7B",
+      "sub_ratio": 30,
+      "accent_hex": "#D2D5EC",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H316",
+      "base_hex": "#A4EBB3",
+      "base_ratio": 70,
+      "sub_hex": "#EF8893",
+      "sub_ratio": 25,
+      "accent_hex": "#3E3A3A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H317",
+      "base_hex": "#E0F1F1",
+      "base_ratio": 65,
+      "sub_hex": "#5F5E45",
+      "sub_ratio": 25,
+      "accent_hex": "#EF8BB6",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H318",
+      "base_hex": "#D4B572",
+      "base_ratio": 70,
+      "sub_hex": "#5CEB7B",
+      "sub_ratio": 25,
+      "accent_hex": "#984F9B",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H319",
+      "base_hex": "#AED265",
+      "base_ratio": 65,
+      "sub_hex": "#B15A5E",
+      "sub_ratio": 25,
+      "accent_hex": "#EB5A09",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H320",
+      "base_hex": "#0068B7",
+      "base_ratio": 70,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 25,
+      "accent_hex": "#5F5E45",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H321",
+      "base_hex": "#9EC3BC",
+      "base_ratio": 65,
+      "sub_hex": "#885517",
+      "sub_ratio": 25,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H322",
+      "base_hex": "#E6AFCF",
+      "base_ratio": 70,
+      "sub_hex": "#79A7D9",
+      "sub_ratio": 25,
+      "accent_hex": "#604461",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H323",
+      "base_hex": "#9E88A6",
+      "base_ratio": 65,
+      "sub_hex": "#E6CD8C",
+      "sub_ratio": 25,
+      "accent_hex": "#AED265",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H324",
+      "base_hex": "#DDE67B",
+      "base_ratio": 70,
+      "sub_hex": "#494544",
+      "sub_ratio": 25,
+      "accent_hex": "#B32425",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H325",
+      "base_hex": "#8B272B",
+      "base_ratio": 65,
+      "sub_hex": "#8AB0BC",
+      "sub_ratio": 25,
+      "accent_hex": "#1D4763",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H326",
+      "base_hex": "#0054A7",
+      "base_ratio": 65,
+      "sub_hex": "#DCC58C",
+      "sub_ratio": 25,
+      "accent_hex": "#002A5B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H327",
+      "base_hex": "#F08437",
+      "base_ratio": 65,
+      "sub_hex": "#63676B",
+      "sub_ratio": 25,
+      "accent_hex": "#1A274B",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H328",
+      "base_hex": "#ACB0A8",
+      "base_ratio": 70,
+      "sub_hex": "#C9BE72",
+      "sub_ratio": 25,
+      "accent_hex": "#E5006A",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H329",
+      "base_hex": "#003740",
+      "base_ratio": 65,
+      "sub_hex": "#FAE06A",
+      "sub_ratio": 25,
+      "accent_hex": "#E7A100",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H330",
+      "base_hex": "#74A64C",
+      "base_ratio": 55,
+      "sub_hex": "#E85298",
+      "sub_ratio": 30,
+      "accent_hex": "#D3E9D0",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H331",
+      "base_hex": "#DCC58C",
+      "base_ratio": 55,
+      "sub_hex": "#B19962",
+      "sub_ratio": 30,
+      "accent_hex": "#198B86",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H332",
+      "base_hex": "#D2D5EC",
+      "base_ratio": 60,
+      "sub_hex": "#4D4398",
+      "sub_ratio": 30,
+      "accent_hex": "#EA6096",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H333",
+      "base_hex": "#B19962",
+      "base_ratio": 55,
+      "sub_hex": "#74B5E4",
+      "sub_ratio": 30,
+      "accent_hex": "#601986",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H334",
+      "base_hex": "#669B76",
+      "base_ratio": 60,
+      "sub_hex": "#F7C4D4",
+      "sub_ratio": 30,
+      "accent_hex": "#F08437",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H335",
+      "base_hex": "#5188B1",
+      "base_ratio": 55,
+      "sub_hex": "#A2A2AD",
+      "sub_ratio": 30,
+      "accent_hex": "#5F5E45",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H336",
+      "base_hex": "#198B86",
+      "base_ratio": 60,
+      "sub_hex": "#D5A6E9",
+      "sub_ratio": 30,
+      "accent_hex": "#0068B7",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H337",
+      "base_hex": "#F2A1A6",
+      "base_ratio": 55,
+      "sub_hex": "#79A7D9",
+      "sub_ratio": 30,
+      "accent_hex": "#411C50",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H338",
+      "base_hex": "#952DBF",
+      "base_ratio": 60,
+      "sub_hex": "#FEEBBE",
+      "sub_ratio": 30,
+      "accent_hex": "#478657",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H339",
+      "base_hex": "#D1AE15",
+      "base_ratio": 55,
+      "sub_hex": "#4977BC",
+      "sub_ratio": 30,
+      "accent_hex": "#8B272B",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H340",
+      "base_hex": "#C03619",
+      "base_ratio": 60,
+      "sub_hex": "#9CC9E5",
+      "sub_ratio": 30,
+      "accent_hex": "#003740",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H341",
+      "base_hex": "#1C67E9",
+      "base_ratio": 65,
+      "sub_hex": "#B7CDDA",
+      "sub_ratio": 25,
+      "accent_hex": "#E6AFCF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H342",
+      "base_hex": "#EB5A09",
+      "base_ratio": 60,
+      "sub_hex": "#A7D28F",
+      "sub_ratio": 30,
+      "accent_hex": "#2E499D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H343",
+      "base_hex": "#957E80",
+      "base_ratio": 70,
+      "sub_hex": "#39BCDD",
+      "sub_ratio": 25,
+      "accent_hex": "#1CE948",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H344",
+      "base_hex": "#4D4C1F",
+      "base_ratio": 60,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 30,
+      "accent_hex": "#E95884",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H345",
+      "base_hex": "#EF8BB6",
+      "base_ratio": 55,
+      "sub_hex": "#F18D00",
+      "sub_ratio": 30,
+      "accent_hex": "#EFE5CB",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H346",
+      "base_hex": "#A7D9DD",
+      "base_ratio": 65,
+      "sub_hex": "#00A08D",
+      "sub_ratio": 25,
+      "accent_hex": "#604461",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H347",
+      "base_hex": "#FEEBBE",
+      "base_ratio": 70,
+      "sub_hex": "#885517",
+      "sub_ratio": 25,
+      "accent_hex": "#BCD537",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H348",
+      "base_hex": "#8E775D",
+      "base_ratio": 65,
+      "sub_hex": "#11F542",
+      "sub_ratio": 25,
+      "accent_hex": "#9F002D",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H349",
+      "base_hex": "#6C8650",
+      "base_ratio": 70,
+      "sub_hex": "#A3A058",
+      "sub_ratio": 25,
+      "accent_hex": "#092237",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H350",
+      "base_hex": "#004C86",
+      "base_ratio": 65,
+      "sub_hex": "#F4AA9A",
+      "sub_ratio": 25,
+      "accent_hex": "#DC5F36",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H351",
+      "base_hex": "#00979B",
+      "base_ratio": 70,
+      "sub_hex": "#A87570",
+      "sub_ratio": 25,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H352",
+      "base_hex": "#F7C3BF",
+      "base_ratio": 65,
+      "sub_hex": "#9FD9F6",
+      "sub_ratio": 25,
+      "accent_hex": "#601986",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H353",
+      "base_hex": "#D5A6E9",
+      "base_ratio": 70,
+      "sub_hex": "#A2A2AD",
+      "sub_ratio": 25,
+      "accent_hex": "#917C50",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H354",
+      "base_hex": "#EBD880",
+      "base_ratio": 65,
+      "sub_hex": "#76A1B8",
+      "sub_ratio": 25,
+      "accent_hex": "#B15A5E",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H355",
+      "base_hex": "#E5006A",
+      "base_ratio": 70,
+      "sub_hex": "#F7BBA2",
+      "sub_ratio": 25,
+      "accent_hex": "#478657",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H356",
+      "base_hex": "#00A040",
+      "base_ratio": 65,
+      "sub_hex": "#B9CDBF",
+      "sub_ratio": 25,
+      "accent_hex": "#E6AFCF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H357",
+      "base_hex": "#F4AA9A",
+      "base_ratio": 70,
+      "sub_hex": "#6C8650",
+      "sub_ratio": 25,
+      "accent_hex": "#4B6251",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H358",
+      "base_hex": "#6E6457",
+      "base_ratio": 70,
+      "sub_hex": "#254678",
+      "sub_ratio": 25,
+      "accent_hex": "#D80C18",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H359",
+      "base_hex": "#7C2E1E",
+      "base_ratio": 70,
+      "sub_hex": "#E99BC1",
+      "sub_ratio": 25,
+      "accent_hex": "#13AE67",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H360",
+      "base_hex": "#E8382F",
+      "base_ratio": 55,
+      "sub_hex": "#1C67E9",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF7C9",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H361",
+      "base_hex": "#C0E4F2",
+      "base_ratio": 60,
+      "sub_hex": "#A7D28F",
+      "sub_ratio": 30,
+      "accent_hex": "#2A4743",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H362",
+      "base_hex": "#FFF8EE",
+      "base_ratio": 55,
+      "sub_hex": "#1F1E63",
+      "sub_ratio": 30,
+      "accent_hex": "#2BB7B3",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H363",
+      "base_hex": "#CB7F69",
+      "base_ratio": 60,
+      "sub_hex": "#25C748",
+      "sub_ratio": 30,
+      "accent_hex": "#9FD9F6",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H364",
+      "base_hex": "#A7D28F",
+      "base_ratio": 55,
+      "sub_hex": "#C1A37D",
+      "sub_ratio": 30,
+      "accent_hex": "#B32425",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H365",
+      "base_hex": "#9CC9E5",
+      "base_ratio": 60,
+      "sub_hex": "#C39C89",
+      "sub_ratio": 30,
+      "accent_hex": "#A660A3",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H366",
+      "base_hex": "#4B7A7C",
+      "base_ratio": 55,
+      "sub_hex": "#E4AF9B",
+      "sub_ratio": 30,
+      "accent_hex": "#FFF100",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H367",
+      "base_hex": "#F096A0",
+      "base_ratio": 60,
+      "sub_hex": "#8AB0BC",
+      "sub_ratio": 30,
+      "accent_hex": "#CEE2DF",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H368",
+      "base_hex": "#AF9DC0",
+      "base_ratio": 55,
+      "sub_hex": "#917C50",
+      "sub_ratio": 30,
+      "accent_hex": "#D7B63D",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H369",
+      "base_hex": "#FFF100",
+      "base_ratio": 60,
+      "sub_hex": "#303967",
+      "sub_ratio": 30,
+      "accent_hex": "#A87570",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H370",
+      "base_hex": "#E94709",
+      "base_ratio": 55,
+      "sub_hex": "#ECBBB5",
+      "sub_ratio": 30,
+      "accent_hex": "#411C50",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H371",
+      "base_hex": "#1CE948",
+      "base_ratio": 65,
+      "sub_hex": "#E4AF9B",
+      "sub_ratio": 25,
+      "accent_hex": "#003740",
+      "accent_ratio": 10
+    },
+    {
+      "source_id": "H372",
+      "base_hex": "#F49C2D",
+      "base_ratio": 55,
+      "sub_hex": "#3C7D9B",
+      "sub_ratio": 30,
+      "accent_hex": "#0054A7",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H373",
+      "base_hex": "#B9CDBF",
+      "base_ratio": 70,
+      "sub_hex": "#3C7D9B",
+      "sub_ratio": 25,
+      "accent_hex": "#C25CEB",
+      "accent_ratio": 5
+    },
+    {
+      "source_id": "H374",
+      "base_hex": "#7F5072",
+      "base_ratio": 55,
+      "sub_hex": "#2BB7B3",
+      "sub_ratio": 30,
+      "accent_hex": "#EE7D50",
+      "accent_ratio": 15
+    },
+    {
+      "source_id": "H375",
+      "base_hex": "#5CEB7B",
+      "base_ratio": 55,
+      "sub_hex": "#F08437",
+      "sub_ratio": 30,
+      "accent_hex": "#F9D6E2",
+      "accent_ratio": 15
     }
   ]
 }
