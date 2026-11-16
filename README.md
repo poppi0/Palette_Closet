@@ -177,19 +177,31 @@ MVPでは、同じ色相でもトーンの異なる色見本を用意し、服�
 
 ## 10. 技術スタック（手段としての技術）
 
-### 10-1. 使用予定の技術
+### 10-1. 使用中の技術
 
-- フレームワーク：React, Rails。
-- DB：PostgreSQL。MVPから配色などを保存・検索するために使う。
-- デプロイ先：Render+Neon（PostgreSQL）。将来はRailwayの新規登録再開後に移行したいと考えています。
-- 使用予定ライブラリ：
-    React Router
-    pg
-    GPT API用にはOpenAI公式のRuby gem `openai`を使う。MVP後の候補。
-- 使用予定テストgem・ライブラリ：
-    - Rails：`rspec-rails`、`factory_bot_rails`、`simplecov`
-    - React：`vitest`、`@testing-library/react`、`@testing-library/dom`、`@testing-library/user-event`、`@testing-library/jest-dom`、`jsdom`
-    - Reactのカバレッジ測定：`@vitest/coverage-v8`
+| 用途 | 技術 |
+| --- | --- |
+| フロントエンド | JavaScript、React、React Router、Vite、CSS Modules |
+| バックエンド | Ruby、Rails（APIモード）、pg、Puma、rack-cors |
+| データベース | PostgreSQL |
+| 開発環境 | Docker、Docker Compose、Node.js |
+| デプロイ先 | Render＋Neon（PostgreSQL） |
+| Lint | RuboCop、ESLint |
+| N+1検出 | Bullet（開発環境） |
+| セキュリティチェック | Brakeman、bundler-audit |
+| CI | GitHub Actions |
+
+テスト・カバレッジ測定には、次のgem・ライブラリを使用しています。
+
+- Rails：`rspec-rails`、`factory_bot_rails`、`simplecov`
+- React：`vitest`、`@testing-library/react`、`@testing-library/dom`、`@testing-library/user-event`、`@testing-library/jest-dom`、`jsdom`、`@vitest/coverage-v8`
+
+GitHub Actionsでは、PRの作成・更新時とmainへのpush時に、テスト・Lint・セキュリティチェックを自動実行します。
+
+#### MVP後の候補
+
+- GPT APIで配色のコメントを生成するため、OpenAI公式のRuby gem `openai`を導入する（未導入）。
+- Railwayの新規登録再開後に、デプロイ先の移行を検討する。
 
 ---
 
