@@ -46,26 +46,6 @@
     font-size: 1rem;
 }
 
-.backLink {
-    display: block;
-    padding: 0.875rem 1.25rem;
-    border-radius: 10px;
-    background: #202221;
-    color: #fff;
-    font-size: 1rem;
-    font-weight: 700;
-    text-decoration: none;
-}
-
-.backLink:visited {
-    color: #fff;
-}
-
-.backLink:focus-visible {
-    outline: 2px solid #263f36;
-    outline-offset: 4px;
-}
-
 .status {
     color: #53645d;
 }
@@ -78,6 +58,18 @@
 }
 
 /* 配色詳細固有の配置・装飾はここから */
+.pageHeading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 1.75rem;
+}
+
+.pageHeading h1 {
+    margin: 0;
+}
+
 .paletteNames {
     color: #72746f;
     font-size: 1rem;
@@ -148,18 +140,6 @@
     font-size: 0.75rem;
 }
 
-.detailsColumn .backLink,
-.errorContent .backLink {
-    justify-self: end;
-    width: 100%;
-    max-width: 344px;
-}
-
-.errorContent {
-    display: grid;
-    gap: 1.25rem;
-}
-
 @media (max-width: 1000px) {
     .balanceLayout {
         grid-template-columns: minmax(0, 1fr);
@@ -190,9 +170,5 @@
 
     .ratio {
         font-size: 1.125rem;
-    }
-
-    .detailsColumn .backLink {
-        max-width: none;
     }
 }

@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
-import { Link, useParams, useSearchParams } from "react-router";
+import { useParams, useSearchParams } from "react-router";
 import { Header } from "../shared/Header.jsx";
 import { Footer } from "../shared/Footer.jsx";
+import { BackLink } from "../shared/BackLink.jsx";
 import styles from "./PaletteShowPage.module.css";
 
 const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:3000";
@@ -66,15 +67,12 @@ export const PaletteShowPage = () => {
 
     if (colorId) {
         backLink = (
-            <Link
-                to={`/palettes?color_id=${encodeURIComponent(colorId)}`}
-                className={styles.backLink}
-            >
+            <BackLink to={`/palettes?color_id=${encodeURIComponent(colorId)}`}>
                 一覧に戻る
-            </Link>
+            </BackLink>
         );
     } else {
-        backLink = <Link to="/" className={styles.backLink}>色を選ぶ</Link>;
+        backLink = <BackLink to="/">色を選ぶ</BackLink>;
     }
 
     let content;
@@ -82,16 +80,10 @@ export const PaletteShowPage = () => {
     if (loading) {
         content = <p className={styles.status} role="status">読み込み中…</p>;
     } else if (error) {
-        content = (
-            <div className={styles.errorContent}>
-                <p className={styles.status} role="alert">{error}</p>
-                {backLink}
-            </div>
-        );
+        content = <p className={styles.status} role="alert">{error}</p>;
     } else {
         content = (
             <>
-                <h1>配色詳細</h1>
                 <p className={styles.paletteNames}>
                     {palette.base_color.name} × {palette.sub_color.name} × {palette.accent_color.name}
                 </p>
@@ -149,8 +141,6 @@ export const PaletteShowPage = () => {
                                 割合は服の枚数ではなく、見えている色の面積の目安です。
                             </p>
                         </section>
-
-                        {backLink}
                     </div>
                 </div>
             </>
@@ -161,7 +151,14 @@ export const PaletteShowPage = () => {
         <div className={styles.page}>
             <Header />
 
-            <main className={styles.main}>{content}</main>
+            <main className={styles.main}>
+                <div className={styles.pageHeading}>
+                    <h1>配色詳細</h1>
+                    {backLink}
+                </div>
+
+                {content}
+            </main>
 
             <Footer showSiteName={false} />
         </div>

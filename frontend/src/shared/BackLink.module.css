@@ -1,0 +1,19 @@
+.backLink {
+    flex-shrink: 0;
+    padding: 0.5rem 0.75rem;
+    border-radius: 10px;
+    background: #202221;
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.backLink:visited {
+    color: #fff;
+}
+
+.backLink:focus-visible {
+    outline: 2px solid #263f36;
+    outline-offset: 4px;
+}
