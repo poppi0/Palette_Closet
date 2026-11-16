@@ -1,5 +1,6 @@
 import { useSearchParams } from "react-router";
 import { Header } from "../shared/Header.jsx";
+import { Footer } from "../shared/Footer.jsx";
 import { PaletteList } from "./components/PaletteList.jsx";
 import styles from "./PalettesPage.module.css";
 
@@ -16,9 +17,7 @@ export const PalettesPage = () => {
                 <PaletteList key={colorId} colorId={colorId} />
             </main>
 
-            <footer className={styles.footer}>
-                色の見え方は、服の素材や照明で変わります。
-            </footer>
+            <Footer showSiteName={false} />
         </div>
     );
 };

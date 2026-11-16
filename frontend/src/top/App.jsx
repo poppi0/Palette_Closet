@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Header } from "../shared/Header.jsx";
+import { Footer } from "../shared/Footer.jsx";
 import styles from "./App.module.css";
 import { ColorGrid } from "./components/ColorGrid.jsx";
 import { SelectedColorPanel } from "./components/SelectedColorPanel.jsx";
@@ -21,10 +22,7 @@ export const App = () => {
                 </div>
             </main>
 
-            <footer className={styles.footer}>
-                <p>色の見え方は、服の素材や照明で変わります。</p>
-                <p>Palette Closet</p>
-            </footer>
+            <Footer />
         </div>
     )
 };
