@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useParams, useSearchParams } from "react-router";
+import { Header } from "../shared/Header.jsx";
+import { Footer } from "../shared/Footer.jsx";
 import styles from "./PaletteShowPage.module.css";
 
 const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:3000";
@@ -157,17 +159,11 @@ export const PaletteShowPage = () => {
 
     return (
         <div className={styles.page}>
-            <header className={styles.header}>
-                <p className={styles.logo}>Palette Closet</p>
-                <p>色から配色を探す</p>
-            </header>
+            <Header />
 
             <main className={styles.main}>{content}</main>
 
-            <footer className={styles.footer}>
-                <p>色の見え方は、服の素材や照明で変わります。</p>
-                <p>Palette Closet</p>
-            </footer>
+            <Footer showSiteName={false} />
         </div>
     );
 };
