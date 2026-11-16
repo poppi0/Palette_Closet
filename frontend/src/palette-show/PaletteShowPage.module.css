@@ -168,17 +168,28 @@
 }
 
 @media (max-width: 600px) {
+    .balanceLayout {
+        grid-template-columns: 90px minmax(0, 1fr);
+        gap: 1rem;
+    }
+
     .paletteBar {
         flex-direction: column;
-        height: 360px;
+        /* 一覧バーの横幅（画面幅からページ・カードの余白と枠を引いた長さ）を縦に使う */
+        height: calc(100vw - 5.5rem - 2px);
     }
 
     .ratioPanel {
-        padding: 1.25rem;
+        padding: 1rem;
     }
 
     .colorGroup {
-        gap: 0.5rem;
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        gap: 0.375rem;
+    }
+
+    .ratio {
+        font-size: 1.125rem;
     }
 
     .detailsColumn .backLink {
